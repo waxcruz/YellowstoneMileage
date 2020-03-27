@@ -1,0 +1,380 @@
+Bridge Bay CG,Canyon & CG,20,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG
+Bridge Bay CG,East Entrance,31,Bridge Bay CG --> Fishing Bridge & RV Park --> East Entrance
+Bridge Bay CG,Fishing Bridge & RV Park,4,Bridge Bay CG --> Fishing Bridge & RV Park
+Bridge Bay CG,Grant Village CG,20,Bridge Bay CG --> West Thumb --> Grant Village CG
+Bridge Bay CG,Indian Creek CG,44,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Indian Creek CG
+Bridge Bay CG,Lewis Lake CG,27,Bridge Bay CG --> West Thumb --> Lewis Lake CG
+Bridge Bay CG,Madison & CG,46,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Madison & CG
+Bridge Bay CG,Mammoth Hot Springs & CG,53,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Bridge Bay CG,Norris & CG,32,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG
+Bridge Bay CG,North Entrance,58,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Bridge Bay CG,Northeast Entrance,68,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Bridge Bay CG,Old Faithful,34,Bridge Bay CG --> West Thumb --> Old Faithful
+Bridge Bay CG,Pebble Creek CG,58,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Bridge Bay CG,Slough Creek CG,47,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Bridge Bay CG,South Entrance,39,Bridge Bay CG --> West Thumb --> South Entrance
+Bridge Bay CG,Tower Fall CG,36,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+Bridge Bay CG,Tower-Roosevelt,39,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+Bridge Bay CG,West Entrance,60,Bridge Bay CG --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Bridge Bay CG,West Thumb,17,Bridge Bay CG --> West Thumb
+Canyon & CG,Bridge Bay CG,20,Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Canyon & CG,East Entrance,43,Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Canyon & CG,Fishing Bridge & RV Park,16,Canyon & CG --> Fishing Bridge & RV Park
+Canyon & CG,Grant Village CG,40,Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Canyon & CG,Indian Creek CG,24,Canyon & CG --> Norris & CG --> Indian Creek CG
+Canyon & CG,Lewis Lake CG,47,Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Canyon & CG,Madison & CG,26,Canyon & CG --> Norris & CG --> Madison & CG
+Canyon & CG,Mammoth Hot Springs & CG,33,Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Canyon & CG,Norris & CG,12,Canyon & CG --> Norris & CG
+Canyon & CG,North Entrance,38,Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Canyon & CG,Northeast Entrance,48,Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Canyon & CG,Old Faithful,42,Canyon & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Canyon & CG,Pebble Creek CG,38,Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Canyon & CG,Slough Creek CG,27,Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Canyon & CG,South Entrance,59,Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Canyon & CG,Tower Fall CG,16,Canyon & CG --> Tower Fall CG
+Canyon & CG,Tower-Roosevelt,19,Canyon & CG --> Tower-Roosevelt
+Canyon & CG,West Entrance,40,Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Canyon & CG,West Thumb,37,Canyon & CG --> Fishing Bridge & RV Park --> West Thumb
+East Entrance,Bridge Bay CG,31,East Entrance --> Fishing Bridge & RV Park --> Bridge Bay CG
+East Entrance,Canyon & CG,43,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG
+East Entrance,Fishing Bridge & RV Park,27,East Entrance --> Fishing Bridge & RV Park
+East Entrance,Grant Village CG,51,East Entrance --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+East Entrance,Indian Creek CG,67,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Indian Creek CG
+East Entrance,Lewis Lake CG,58,East Entrance --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+East Entrance,Madison & CG,69,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Madison & CG
+East Entrance,Mammoth Hot Springs & CG,76,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG
+East Entrance,Norris & CG,55,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG
+East Entrance,North Entrance,81,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+East Entrance,Northeast Entrance,91,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+East Entrance,Old Faithful,65,East Entrance --> Fishing Bridge & RV Park --> West Thumb --> Old Faithful
+East Entrance,Pebble Creek CG,81,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+East Entrance,Slough Creek CG,70,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+East Entrance,South Entrance,70,East Entrance --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+East Entrance,Tower Fall CG,59,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+East Entrance,Tower-Roosevelt,62,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+East Entrance,West Entrance,83,East Entrance --> Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+East Entrance,West Thumb,48,East Entrance --> Fishing Bridge & RV Park --> West Thumb
+Fishing Bridge & RV Park,Bridge Bay CG,4,Fishing Bridge & RV Park --> Bridge Bay CG
+Fishing Bridge & RV Park,Canyon & CG,16,Fishing Bridge & RV Park --> Canyon & CG
+Fishing Bridge & RV Park,East Entrance,27,Fishing Bridge & RV Park --> East Entrance
+Fishing Bridge & RV Park,Grant Village CG,24,Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Fishing Bridge & RV Park,Indian Creek CG,40,Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Indian Creek CG
+Fishing Bridge & RV Park,Lewis Lake CG,31,Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Fishing Bridge & RV Park,Madison & CG,42,Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Madison & CG
+Fishing Bridge & RV Park,Mammoth Hot Springs & CG,49,Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Fishing Bridge & RV Park,Norris & CG,28,Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG
+Fishing Bridge & RV Park,North Entrance,54,Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Fishing Bridge & RV Park,Northeast Entrance,64,Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Fishing Bridge & RV Park,Old Faithful,38,Fishing Bridge & RV Park --> West Thumb --> Old Faithful
+Fishing Bridge & RV Park,Pebble Creek CG,54,Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Fishing Bridge & RV Park,Slough Creek CG,43,Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Fishing Bridge & RV Park,South Entrance,43,Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Fishing Bridge & RV Park,Tower Fall CG,32,Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+Fishing Bridge & RV Park,Tower-Roosevelt,35,Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+Fishing Bridge & RV Park,West Entrance,56,Fishing Bridge & RV Park --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Fishing Bridge & RV Park,West Thumb,21,Fishing Bridge & RV Park --> West Thumb
+Grant Village CG,Bridge Bay CG,20,Grant Village CG --> West Thumb --> Bridge Bay CG
+Grant Village CG,Canyon & CG,40,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG
+Grant Village CG,East Entrance,51,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> East Entrance
+Grant Village CG,Fishing Bridge & RV Park,24,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park
+Grant Village CG,Indian Creek CG,62,Grant Village CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Indian Creek CG
+Grant Village CG,Lewis Lake CG,10,Grant Village CG --> Lewis Lake CG
+Grant Village CG,Madison & CG,36,Grant Village CG --> West Thumb --> Old Faithful --> Madison & CG
+Grant Village CG,Mammoth Hot Springs & CG,71,Grant Village CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Grant Village CG,Norris & CG,50,Grant Village CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG
+Grant Village CG,North Entrance,76,Grant Village CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Grant Village CG,Northeast Entrance,88,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Grant Village CG,Old Faithful,20,Grant Village CG --> West Thumb --> Old Faithful
+Grant Village CG,Pebble Creek CG,78,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Grant Village CG,Slough Creek CG,67,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Grant Village CG,South Entrance,21,Grant Village CG --> South Entrance
+Grant Village CG,Tower Fall CG,56,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+Grant Village CG,Tower-Roosevelt,59,Grant Village CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+Grant Village CG,West Entrance,50,Grant Village CG --> West Thumb --> Old Faithful --> Madison & CG --> West Entrance
+Grant Village CG,West Thumb,3,Grant Village CG --> West Thumb
+Indian Creek CG,Bridge Bay CG,44,Indian Creek CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Indian Creek CG,Canyon & CG,24,Indian Creek CG --> Norris & CG --> Canyon & CG
+Indian Creek CG,East Entrance,67,Indian Creek CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Indian Creek CG,Fishing Bridge & RV Park,40,Indian Creek CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park
+Indian Creek CG,Grant Village CG,62,Indian Creek CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Grant Village CG
+Indian Creek CG,Lewis Lake CG,69,Indian Creek CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Lewis Lake CG
+Indian Creek CG,Madison & CG,26,Indian Creek CG --> Norris & CG --> Madison & CG
+Indian Creek CG,Mammoth Hot Springs & CG,9,Indian Creek CG --> Mammoth Hot Springs & CG
+Indian Creek CG,Norris & CG,12,Indian Creek CG --> Norris & CG
+Indian Creek CG,North Entrance,14,Indian Creek CG --> Mammoth Hot Springs & CG --> North Entrance
+Indian Creek CG,Northeast Entrance,56,Indian Creek CG --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Northeast Entrance
+Indian Creek CG,Old Faithful,42,Indian Creek CG --> Norris & CG --> Madison & CG --> Old Faithful
+Indian Creek CG,Pebble Creek CG,46,Indian Creek CG --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Pebble Creek CG
+Indian Creek CG,Slough Creek CG,35,Indian Creek CG --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Slough Creek CG
+Indian Creek CG,South Entrance,81,Indian Creek CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> South Entrance
+Indian Creek CG,Tower Fall CG,30,Indian Creek CG --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Tower Fall CG
+Indian Creek CG,Tower-Roosevelt,27,Indian Creek CG --> Mammoth Hot Springs & CG --> Tower-Roosevelt
+Indian Creek CG,West Entrance,40,Indian Creek CG --> Norris & CG --> Madison & CG --> West Entrance
+Indian Creek CG,West Thumb,59,Indian Creek CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb
+Lewis Lake CG,Bridge Bay CG,27,Lewis Lake CG --> West Thumb --> Bridge Bay CG
+Lewis Lake CG,Canyon & CG,47,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG
+Lewis Lake CG,East Entrance,58,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> East Entrance
+Lewis Lake CG,Fishing Bridge & RV Park,31,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park
+Lewis Lake CG,Grant Village CG,10,Lewis Lake CG --> Grant Village CG
+Lewis Lake CG,Indian Creek CG,69,Lewis Lake CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Indian Creek CG
+Lewis Lake CG,Madison & CG,43,Lewis Lake CG --> West Thumb --> Old Faithful --> Madison & CG
+Lewis Lake CG,Mammoth Hot Springs & CG,78,Lewis Lake CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Lewis Lake CG,Norris & CG,57,Lewis Lake CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG
+Lewis Lake CG,North Entrance,83,Lewis Lake CG --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Lewis Lake CG,Northeast Entrance,95,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Lewis Lake CG,Old Faithful,27,Lewis Lake CG --> West Thumb --> Old Faithful
+Lewis Lake CG,Pebble Creek CG,85,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Lewis Lake CG,Slough Creek CG,74,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Lewis Lake CG,South Entrance,12,Lewis Lake CG --> South Entrance
+Lewis Lake CG,Tower Fall CG,63,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+Lewis Lake CG,Tower-Roosevelt,66,Lewis Lake CG --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+Lewis Lake CG,West Entrance,57,Lewis Lake CG --> West Thumb --> Old Faithful --> Madison & CG --> West Entrance
+Lewis Lake CG,West Thumb,10,Lewis Lake CG --> West Thumb
+Madison & CG,Bridge Bay CG,46,Madison & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Madison & CG,Canyon & CG,26,Madison & CG --> Norris & CG --> Canyon & CG
+Madison & CG,East Entrance,69,Madison & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Madison & CG,Fishing Bridge & RV Park,42,Madison & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park
+Madison & CG,Grant Village CG,36,Madison & CG --> Old Faithful --> West Thumb --> Grant Village CG
+Madison & CG,Indian Creek CG,26,Madison & CG --> Norris & CG --> Indian Creek CG
+Madison & CG,Lewis Lake CG,43,Madison & CG --> Old Faithful --> West Thumb --> Lewis Lake CG
+Madison & CG,Mammoth Hot Springs & CG,35,Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Madison & CG,Norris & CG,14,Madison & CG --> Norris & CG
+Madison & CG,North Entrance,40,Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Madison & CG,Northeast Entrance,74,Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Madison & CG,Old Faithful,16,Madison & CG --> Old Faithful
+Madison & CG,Pebble Creek CG,64,Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Madison & CG,Slough Creek CG,53,Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Madison & CG,South Entrance,55,Madison & CG --> Old Faithful --> West Thumb --> South Entrance
+Madison & CG,Tower Fall CG,42,Madison & CG --> Norris & CG --> Canyon & CG --> Tower Fall CG
+Madison & CG,Tower-Roosevelt,45,Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt
+Madison & CG,West Entrance,14,Madison & CG --> West Entrance
+Madison & CG,West Thumb,33,Madison & CG --> Old Faithful --> West Thumb
+Mammoth Hot Springs & CG,Bridge Bay CG,53,Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Mammoth Hot Springs & CG,Canyon & CG,33,Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG
+Mammoth Hot Springs & CG,East Entrance,76,Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Mammoth Hot Springs & CG,Fishing Bridge & RV Park,49,Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park
+Mammoth Hot Springs & CG,Grant Village CG,71,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Grant Village CG
+Mammoth Hot Springs & CG,Indian Creek CG,9,Mammoth Hot Springs & CG --> Indian Creek CG
+Mammoth Hot Springs & CG,Lewis Lake CG,78,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Lewis Lake CG
+Mammoth Hot Springs & CG,Madison & CG,35,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG
+Mammoth Hot Springs & CG,Norris & CG,21,Mammoth Hot Springs & CG --> Norris & CG
+Mammoth Hot Springs & CG,North Entrance,5,Mammoth Hot Springs & CG --> North Entrance
+Mammoth Hot Springs & CG,Northeast Entrance,47,Mammoth Hot Springs & CG --> Tower-Roosevelt --> Northeast Entrance
+Mammoth Hot Springs & CG,Old Faithful,51,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Mammoth Hot Springs & CG,Pebble Creek CG,37,Mammoth Hot Springs & CG --> Tower-Roosevelt --> Pebble Creek CG
+Mammoth Hot Springs & CG,Slough Creek CG,26,Mammoth Hot Springs & CG --> Tower-Roosevelt --> Slough Creek CG
+Mammoth Hot Springs & CG,South Entrance,90,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> South Entrance
+Mammoth Hot Springs & CG,Tower Fall CG,21,Mammoth Hot Springs & CG --> Tower-Roosevelt --> Tower Fall CG
+Mammoth Hot Springs & CG,Tower-Roosevelt,18,Mammoth Hot Springs & CG --> Tower-Roosevelt
+Mammoth Hot Springs & CG,West Entrance,49,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> West Entrance
+Mammoth Hot Springs & CG,West Thumb,68,Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb
+Norris & CG,Bridge Bay CG,32,Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Norris & CG,Canyon & CG,12,Norris & CG --> Canyon & CG
+Norris & CG,East Entrance,55,Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Norris & CG,Fishing Bridge & RV Park,28,Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park
+Norris & CG,Grant Village CG,50,Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Grant Village CG
+Norris & CG,Indian Creek CG,12,Norris & CG --> Indian Creek CG
+Norris & CG,Lewis Lake CG,57,Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Lewis Lake CG
+Norris & CG,Madison & CG,14,Norris & CG --> Madison & CG
+Norris & CG,Mammoth Hot Springs & CG,21,Norris & CG --> Mammoth Hot Springs & CG
+Norris & CG,North Entrance,26,Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Norris & CG,Northeast Entrance,60,Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Norris & CG,Old Faithful,30,Norris & CG --> Madison & CG --> Old Faithful
+Norris & CG,Pebble Creek CG,50,Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Norris & CG,Slough Creek CG,39,Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Norris & CG,South Entrance,69,Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> South Entrance
+Norris & CG,Tower Fall CG,28,Norris & CG --> Canyon & CG --> Tower Fall CG
+Norris & CG,Tower-Roosevelt,31,Norris & CG --> Canyon & CG --> Tower-Roosevelt
+Norris & CG,West Entrance,28,Norris & CG --> Madison & CG --> West Entrance
+Norris & CG,West Thumb,47,Norris & CG --> Madison & CG --> Old Faithful --> West Thumb
+North Entrance,Bridge Bay CG,58,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+North Entrance,Canyon & CG,38,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG
+North Entrance,East Entrance,81,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+North Entrance,Fishing Bridge & RV Park,54,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park
+North Entrance,Grant Village CG,76,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Grant Village CG
+North Entrance,Indian Creek CG,14,North Entrance --> Mammoth Hot Springs & CG --> Indian Creek CG
+North Entrance,Lewis Lake CG,83,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> Lewis Lake CG
+North Entrance,Madison & CG,40,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG
+North Entrance,Mammoth Hot Springs & CG,5,North Entrance --> Mammoth Hot Springs & CG
+North Entrance,Norris & CG,26,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG
+North Entrance,Northeast Entrance,52,North Entrance --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Northeast Entrance
+North Entrance,Old Faithful,56,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful
+North Entrance,Pebble Creek CG,42,North Entrance --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Pebble Creek CG
+North Entrance,Slough Creek CG,31,North Entrance --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Slough Creek CG
+North Entrance,South Entrance,95,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb --> South Entrance
+North Entrance,Tower Fall CG,26,North Entrance --> Mammoth Hot Springs & CG --> Tower-Roosevelt --> Tower Fall CG
+North Entrance,Tower-Roosevelt,23,North Entrance --> Mammoth Hot Springs & CG --> Tower-Roosevelt
+North Entrance,West Entrance,54,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> West Entrance
+North Entrance,West Thumb,73,North Entrance --> Mammoth Hot Springs & CG --> Norris & CG --> Madison & CG --> Old Faithful --> West Thumb
+Northeast Entrance,Bridge Bay CG,68,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Northeast Entrance,Canyon & CG,48,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG
+Northeast Entrance,East Entrance,91,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Northeast Entrance,Fishing Bridge & RV Park,64,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park
+Northeast Entrance,Grant Village CG,88,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Northeast Entrance,Indian Creek CG,56,Northeast Entrance --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> Indian Creek CG
+Northeast Entrance,Lewis Lake CG,95,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Northeast Entrance,Madison & CG,74,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG
+Northeast Entrance,Mammoth Hot Springs & CG,47,Northeast Entrance --> Tower-Roosevelt --> Mammoth Hot Springs & CG
+Northeast Entrance,Norris & CG,60,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Norris & CG
+Northeast Entrance,North Entrance,52,Northeast Entrance --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> North Entrance
+Northeast Entrance,Old Faithful,90,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Northeast Entrance,Pebble Creek CG,10,Northeast Entrance --> Pebble Creek CG
+Northeast Entrance,Slough Creek CG,25,Northeast Entrance --> Slough Creek CG
+Northeast Entrance,South Entrance,107,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Northeast Entrance,Tower Fall CG,32,Northeast Entrance --> Tower-Roosevelt --> Tower Fall CG
+Northeast Entrance,Tower-Roosevelt,29,Northeast Entrance --> Tower-Roosevelt
+Northeast Entrance,West Entrance,88,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Northeast Entrance,West Thumb,85,Northeast Entrance --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb
+Old Faithful,Bridge Bay CG,34,Old Faithful --> West Thumb --> Bridge Bay CG
+Old Faithful,Canyon & CG,42,Old Faithful --> Madison & CG --> Norris & CG --> Canyon & CG
+Old Faithful,East Entrance,65,Old Faithful --> West Thumb --> Fishing Bridge & RV Park --> East Entrance
+Old Faithful,Fishing Bridge & RV Park,38,Old Faithful --> West Thumb --> Fishing Bridge & RV Park
+Old Faithful,Grant Village CG,20,Old Faithful --> West Thumb --> Grant Village CG
+Old Faithful,Indian Creek CG,42,Old Faithful --> Madison & CG --> Norris & CG --> Indian Creek CG
+Old Faithful,Lewis Lake CG,27,Old Faithful --> West Thumb --> Lewis Lake CG
+Old Faithful,Madison & CG,16,Old Faithful --> Madison & CG
+Old Faithful,Mammoth Hot Springs & CG,51,Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+Old Faithful,Norris & CG,30,Old Faithful --> Madison & CG --> Norris & CG
+Old Faithful,North Entrance,56,Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+Old Faithful,Northeast Entrance,90,Old Faithful --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+Old Faithful,Pebble Creek CG,80,Old Faithful --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+Old Faithful,Slough Creek CG,69,Old Faithful --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+Old Faithful,South Entrance,39,Old Faithful --> West Thumb --> South Entrance
+Old Faithful,Tower Fall CG,58,Old Faithful --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower Fall CG
+Old Faithful,Tower-Roosevelt,61,Old Faithful --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt
+Old Faithful,West Entrance,30,Old Faithful --> Madison & CG --> West Entrance
+Old Faithful,West Thumb,17,Old Faithful --> West Thumb
+Pebble Creek CG,Bridge Bay CG,58,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Pebble Creek CG,Canyon & CG,38,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG
+Pebble Creek CG,East Entrance,81,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Pebble Creek CG,Fishing Bridge & RV Park,54,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park
+Pebble Creek CG,Grant Village CG,78,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Pebble Creek CG,Indian Creek CG,46,Pebble Creek CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> Indian Creek CG
+Pebble Creek CG,Lewis Lake CG,85,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Pebble Creek CG,Madison & CG,64,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG
+Pebble Creek CG,Mammoth Hot Springs & CG,37,Pebble Creek CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG
+Pebble Creek CG,Norris & CG,50,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG
+Pebble Creek CG,North Entrance,42,Pebble Creek CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> North Entrance
+Pebble Creek CG,Northeast Entrance,10,Pebble Creek CG --> Northeast Entrance
+Pebble Creek CG,Old Faithful,80,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Pebble Creek CG,Slough Creek CG,15,Pebble Creek CG --> Slough Creek CG
+Pebble Creek CG,South Entrance,97,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Pebble Creek CG,Tower Fall CG,22,Pebble Creek CG --> Tower-Roosevelt --> Tower Fall CG
+Pebble Creek CG,Tower-Roosevelt,19,Pebble Creek CG --> Tower-Roosevelt
+Pebble Creek CG,West Entrance,78,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Pebble Creek CG,West Thumb,75,Pebble Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb
+Slough Creek CG,Bridge Bay CG,47,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Slough Creek CG,Canyon & CG,27,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG
+Slough Creek CG,East Entrance,70,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Slough Creek CG,Fishing Bridge & RV Park,43,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park
+Slough Creek CG,Grant Village CG,67,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Slough Creek CG,Indian Creek CG,35,Slough Creek CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> Indian Creek CG
+Slough Creek CG,Lewis Lake CG,74,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Slough Creek CG,Madison & CG,53,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG
+Slough Creek CG,Mammoth Hot Springs & CG,26,Slough Creek CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG
+Slough Creek CG,Norris & CG,39,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG
+Slough Creek CG,North Entrance,31,Slough Creek CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> North Entrance
+Slough Creek CG,Northeast Entrance,25,Slough Creek CG --> Northeast Entrance
+Slough Creek CG,Old Faithful,69,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Slough Creek CG,Pebble Creek CG,15,Slough Creek CG --> Pebble Creek CG
+Slough Creek CG,South Entrance,86,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Slough Creek CG,Tower Fall CG,11,Slough Creek CG --> Tower-Roosevelt --> Tower Fall CG
+Slough Creek CG,Tower-Roosevelt,8,Slough Creek CG --> Tower-Roosevelt
+Slough Creek CG,West Entrance,67,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Slough Creek CG,West Thumb,64,Slough Creek CG --> Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb
+South Entrance,Bridge Bay CG,39,South Entrance --> West Thumb --> Bridge Bay CG
+South Entrance,Canyon & CG,59,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG
+South Entrance,East Entrance,70,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> East Entrance
+South Entrance,Fishing Bridge & RV Park,43,South Entrance --> West Thumb --> Fishing Bridge & RV Park
+South Entrance,Grant Village CG,21,South Entrance --> Grant Village CG
+South Entrance,Indian Creek CG,81,South Entrance --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Indian Creek CG
+South Entrance,Lewis Lake CG,12,South Entrance --> Lewis Lake CG
+South Entrance,Madison & CG,55,South Entrance --> West Thumb --> Old Faithful --> Madison & CG
+South Entrance,Mammoth Hot Springs & CG,90,South Entrance --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+South Entrance,Norris & CG,69,South Entrance --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG
+South Entrance,North Entrance,95,South Entrance --> West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+South Entrance,Northeast Entrance,107,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+South Entrance,Old Faithful,39,South Entrance --> West Thumb --> Old Faithful
+South Entrance,Pebble Creek CG,97,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+South Entrance,Slough Creek CG,86,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+South Entrance,Tower Fall CG,75,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+South Entrance,Tower-Roosevelt,78,South Entrance --> West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+South Entrance,West Entrance,69,South Entrance --> West Thumb --> Old Faithful --> Madison & CG --> West Entrance
+South Entrance,West Thumb,22,South Entrance --> West Thumb
+Tower Fall CG,Bridge Bay CG,36,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Tower Fall CG,Canyon & CG,16,Tower Fall CG --> Canyon & CG
+Tower Fall CG,East Entrance,59,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Tower Fall CG,Fishing Bridge & RV Park,32,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park
+Tower Fall CG,Grant Village CG,56,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Tower Fall CG,Indian Creek CG,30,Tower Fall CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> Indian Creek CG
+Tower Fall CG,Lewis Lake CG,63,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Tower Fall CG,Madison & CG,42,Tower Fall CG --> Canyon & CG --> Norris & CG --> Madison & CG
+Tower Fall CG,Mammoth Hot Springs & CG,21,Tower Fall CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG
+Tower Fall CG,Norris & CG,28,Tower Fall CG --> Canyon & CG --> Norris & CG
+Tower Fall CG,North Entrance,26,Tower Fall CG --> Tower-Roosevelt --> Mammoth Hot Springs & CG --> North Entrance
+Tower Fall CG,Northeast Entrance,32,Tower Fall CG --> Tower-Roosevelt --> Northeast Entrance
+Tower Fall CG,Old Faithful,58,Tower Fall CG --> Canyon & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Tower Fall CG,Pebble Creek CG,22,Tower Fall CG --> Tower-Roosevelt --> Pebble Creek CG
+Tower Fall CG,Slough Creek CG,11,Tower Fall CG --> Tower-Roosevelt --> Slough Creek CG
+Tower Fall CG,South Entrance,75,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Tower Fall CG,Tower-Roosevelt,3,Tower Fall CG --> Tower-Roosevelt
+Tower Fall CG,West Entrance,56,Tower Fall CG --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Tower Fall CG,West Thumb,53,Tower Fall CG --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb
+Tower-Roosevelt,Bridge Bay CG,39,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+Tower-Roosevelt,Canyon & CG,19,Tower-Roosevelt --> Canyon & CG
+Tower-Roosevelt,East Entrance,62,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+Tower-Roosevelt,Fishing Bridge & RV Park,35,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park
+Tower-Roosevelt,Grant Village CG,59,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Grant Village CG
+Tower-Roosevelt,Indian Creek CG,27,Tower-Roosevelt --> Mammoth Hot Springs & CG --> Indian Creek CG
+Tower-Roosevelt,Lewis Lake CG,66,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> Lewis Lake CG
+Tower-Roosevelt,Madison & CG,45,Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG
+Tower-Roosevelt,Mammoth Hot Springs & CG,18,Tower-Roosevelt --> Mammoth Hot Springs & CG
+Tower-Roosevelt,Norris & CG,31,Tower-Roosevelt --> Canyon & CG --> Norris & CG
+Tower-Roosevelt,North Entrance,23,Tower-Roosevelt --> Mammoth Hot Springs & CG --> North Entrance
+Tower-Roosevelt,Northeast Entrance,29,Tower-Roosevelt --> Northeast Entrance
+Tower-Roosevelt,Old Faithful,61,Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> Old Faithful
+Tower-Roosevelt,Pebble Creek CG,19,Tower-Roosevelt --> Pebble Creek CG
+Tower-Roosevelt,Slough Creek CG,8,Tower-Roosevelt --> Slough Creek CG
+Tower-Roosevelt,South Entrance,78,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb --> South Entrance
+Tower-Roosevelt,Tower Fall CG,3,Tower-Roosevelt --> Tower Fall CG
+Tower-Roosevelt,West Entrance,59,Tower-Roosevelt --> Canyon & CG --> Norris & CG --> Madison & CG --> West Entrance
+Tower-Roosevelt,West Thumb,56,Tower-Roosevelt --> Canyon & CG --> Fishing Bridge & RV Park --> West Thumb
+West Entrance,Bridge Bay CG,60,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> Bridge Bay CG
+West Entrance,Canyon & CG,40,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG
+West Entrance,East Entrance,83,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park --> East Entrance
+West Entrance,Fishing Bridge & RV Park,56,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Fishing Bridge & RV Park
+West Entrance,Grant Village CG,50,West Entrance --> Madison & CG --> Old Faithful --> West Thumb --> Grant Village CG
+West Entrance,Indian Creek CG,40,West Entrance --> Madison & CG --> Norris & CG --> Indian Creek CG
+West Entrance,Lewis Lake CG,57,West Entrance --> Madison & CG --> Old Faithful --> West Thumb --> Lewis Lake CG
+West Entrance,Madison & CG,14,West Entrance --> Madison & CG
+West Entrance,Mammoth Hot Springs & CG,49,West Entrance --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+West Entrance,Norris & CG,28,West Entrance --> Madison & CG --> Norris & CG
+West Entrance,North Entrance,54,West Entrance --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+West Entrance,Northeast Entrance,88,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+West Entrance,Old Faithful,30,West Entrance --> Madison & CG --> Old Faithful
+West Entrance,Pebble Creek CG,78,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+West Entrance,Slough Creek CG,67,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+West Entrance,South Entrance,69,West Entrance --> Madison & CG --> Old Faithful --> West Thumb --> South Entrance
+West Entrance,Tower Fall CG,56,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower Fall CG
+West Entrance,Tower-Roosevelt,59,West Entrance --> Madison & CG --> Norris & CG --> Canyon & CG --> Tower-Roosevelt
+West Entrance,West Thumb,47,West Entrance --> Madison & CG --> Old Faithful --> West Thumb
+West Thumb,Bridge Bay CG,17,West Thumb --> Bridge Bay CG
+West Thumb,Canyon & CG,37,West Thumb --> Fishing Bridge & RV Park --> Canyon & CG
+West Thumb,East Entrance,48,West Thumb --> Fishing Bridge & RV Park --> East Entrance
+West Thumb,Fishing Bridge & RV Park,21,West Thumb --> Fishing Bridge & RV Park
+West Thumb,Grant Village CG,3,West Thumb --> Grant Village CG
+West Thumb,Indian Creek CG,59,West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Indian Creek CG
+West Thumb,Lewis Lake CG,10,West Thumb --> Lewis Lake CG
+West Thumb,Madison & CG,33,West Thumb --> Old Faithful --> Madison & CG
+West Thumb,Mammoth Hot Springs & CG,68,West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG
+West Thumb,Norris & CG,47,West Thumb --> Old Faithful --> Madison & CG --> Norris & CG
+West Thumb,North Entrance,73,West Thumb --> Old Faithful --> Madison & CG --> Norris & CG --> Mammoth Hot Springs & CG --> North Entrance
+West Thumb,Northeast Entrance,85,West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Northeast Entrance
+West Thumb,Old Faithful,17,West Thumb --> Old Faithful
+West Thumb,Pebble Creek CG,75,West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Pebble Creek CG
+West Thumb,Slough Creek CG,64,West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt --> Slough Creek CG
+West Thumb,South Entrance,22,West Thumb --> South Entrance
+West Thumb,Tower Fall CG,53,West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower Fall CG
+West Thumb,Tower-Roosevelt,56,West Thumb --> Fishing Bridge & RV Park --> Canyon & CG --> Tower-Roosevelt
+West Thumb,West Entrance,47,West Thumb --> Old Faithful --> Madison & CG --> West Entrance

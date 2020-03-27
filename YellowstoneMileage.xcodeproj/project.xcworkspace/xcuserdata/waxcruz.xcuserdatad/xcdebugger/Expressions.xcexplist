@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Map addRoute:toMap:]:Map.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Mileage viewDidLoad]:Mileage.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Map addRoutes:]:Map.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

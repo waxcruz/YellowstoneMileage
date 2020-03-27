@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Yellowstone Mileage</string>
+    <string name="close_button">Close</string>
+    <string name="open_seasonally">open seasonally</string>
+    <string name="copyright_notice">Copyright</string>
+    <string name="from_point">From: <i>Touch Origination Square</i></string>
+    <string name="intro_paragraph_top">Some of the routes are open only part of the year. Above is the schedule for road opening &amp; closing dates. Changes &amp; delays are always possible. For road updates, call 307-344-2117 or check locally &amp; at go.nps.gov/yellroads for real-time road information.</string>
+    <string name="intro_paragraph_right">Some of the routes are open only part of the year. The schedule for road opening &amp; closing dates is on the left. Changes &amp; delays are always possible. For road updates, call 307-344-2117 or check locally &amp; at go.nps.gov/yellroads for real-time road information.</string>
+    <string name="map_image">Yellowstone National Park map</string>
+    <string name="miles">xxx miles</string>
+    <string name="reset_button">Reset</string>
+    <string name="road_dates">Road dates</string>
+    <string name="route">Route: </string>
+    <string name="seasonal">seasonal</string>
+    <string name="swap_end_points">Swap end points</string>
+    <string name="to_point">To: <i>Touch Destination Square</i></string>
+    <string name="touch_destination">Touch Destination Square</string>
+    <string name="touch_origination">Touch Origination Square</string>
+
+    <!-- Toast messages  --> 
+    <string name="message_1">Zoom, pan supported</string>
+
+</resources>

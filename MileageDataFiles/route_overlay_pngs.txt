@@ -1,0 +1,30 @@
+Bridge Bay CG	Fishing Bridge & RV Park	bridge_bay_cg___fishing_bridge_and_rv_park	seasonal
+Bridge Bay CG	West Thumb	bridge_bay_cg___west_thumb	seasonal
+Canyon & CG	Fishing Bridge & RV Park	canyon_and_cg___fishing_bridge_and_rv_park	seasonal
+Canyon & CG	Norris & CG	canyon_and_cg___norris_and_cg	seasonal
+Canyon & CG	Tower Fall CG	canyon_and_cg___tower_fall_cg	seasonal
+Canyon & CG	Tower-Roosevelt	canyon_and_cg___tower_roosevelt	seasonal
+East Entrance	Fishing Bridge & RV Park	east_entrance___fishing_bridge_and_rv_park	seasonal
+Fishing Bridge & RV Park	West Thumb	fishing_bridge_and_rv_park___west_thumb	seasonal
+Grant Village CG	Lewis Lake CG	grant_village_cg___lewis_lake_cg	seasonal
+Grant Village CG	South Entrance	grant_village_cg___south_entrance	seasonal
+Grant Village CG	West Thumb	grant_village_cg___west_thumb	seasonal
+Indian Creek CG	Mammoth Hot Springs & CG	indian_creek_cg___mammoth_hot_springs_and_cg	seasonal
+Indian Creek CG	Norris & CG	indian_creek_cg___norris_and_cg	seasonal
+Lewis Lake CG	South Entrance	lewis_lake_cg___south_entrance	seasonal
+Lewis Lake CG	West Thumb	lewis_lake_cg___west_thumb	seasonal
+Madison & CG	Norris & CG	madison_and_cg___norris_and_cg	seasonal
+Madison & CG	Old Faithful	madison_and_cg___old_faithful	seasonal
+Madison & CG	West Entrance	madison_and_cg___west_entrance	seasonal
+Mammoth Hot Springs & CG	Norris & CG	mammoth_hot_springs_and_cg___norris_and_cg	seasonal
+Mammoth Hot Springs & CG	North Entrance	mammoth_hot_springs_and_cg___north_entrance	
+Mammoth Hot Springs & CG	Tower-Roosevelt	mammoth_hot_springs_and_cg___tower_roosevelt	
+Northeast Entrance	Pebble Creek CG	northeast_entrance___pebble_creek_cg	seasonal
+Northeast Entrance	Slough Creek CG	northeast_entrance___slough_creek_cg	seasonal
+Northeast Entrance	Tower-Roosevelt	northeast_entrance___tower_roosevelt	
+Old Faithful	West Thumb	old_faithful___west_thumb	seasonal
+Pebble Creek CG	Slough Creek CG	pebble_creek_cg___slough_creek_cg	seasonal
+Pebble Creek CG	Tower-Roosevelt	pebble_creek_cg___tower_roosevelt	seasonal
+Slough Creek CG	Tower-Roosevelt	slough_creek_cg___tower_roosevelt	seasonal
+South Entrance	West Thumb	south_entrance___west_thumb	seasonal
+Tower Fall CG	Tower-Roosevelt	tower_fall_cg___tower_roosevelt	seasonal

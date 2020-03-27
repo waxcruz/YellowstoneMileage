@@ -1,0 +1,1007 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		340060E61DC61921006570EB /* YellowstoneNationalParkMap76X76.png in Resources */ = {isa = PBXBuildFile; fileRef = 340060E21DC61921006570EB /* YellowstoneNationalParkMap76X76.png */; };
+		340060E71DC61921006570EB /* YellowstoneNationalParkMap120X120.png in Resources */ = {isa = PBXBuildFile; fileRef = 340060E31DC61921006570EB /* YellowstoneNationalParkMap120X120.png */; };
+		340060E81DC61921006570EB /* YellowstoneNationalParkMap152X152.png in Resources */ = {isa = PBXBuildFile; fileRef = 340060E41DC61921006570EB /* YellowstoneNationalParkMap152X152.png */; };
+		340060E91DC61921006570EB /* YellowstoneNationalParkMap167X167.png in Resources */ = {isa = PBXBuildFile; fileRef = 340060E51DC61921006570EB /* YellowstoneNationalParkMap167X167.png */; };
+		340060EB1DC61AFE006570EB /* YellowstoneNationalParkMap.png in Resources */ = {isa = PBXBuildFile; fileRef = 340060EA1DC61AFE006570EB /* YellowstoneNationalParkMap.png */; };
+		3409BC7C20E14D56004716CA /* road_dates_960x960.png in Resources */ = {isa = PBXBuildFile; fileRef = 3409BC7B20E14D56004716CA /* road_dates_960x960.png */; };
+		3435D26F1CEE8EE500AD7C61 /* MileageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3435D26E1CEE8EE500AD7C61 /* MileageViewController.m */; };
+		3445B7E320D028C3002C9CE8 /* OverlayRoads.m in Sources */ = {isa = PBXBuildFile; fileRef = 3445B7E220D028C2002C9CE8 /* OverlayRoads.m */; };
+		3445B7E620D02F07002C9CE8 /* end_point_data.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3445B7E420D02F06002C9CE8 /* end_point_data.txt */; };
+		3445B7E720D02F07002C9CE8 /* attributions.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3445B7E520D02F06002C9CE8 /* attributions.txt */; };
+		3445B7E920D02F0D002C9CE8 /* route_overlay_pngs.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3445B7E820D02F0D002C9CE8 /* route_overlay_pngs.txt */; };
+		3445B7EC20D0488B002C9CE8 /* OverlayRoad.m in Sources */ = {isa = PBXBuildFile; fileRef = 3445B7EB20D0488B002C9CE8 /* OverlayRoad.m */; };
+		3445B7EF20D0D42E002C9CE8 /* RoadClosureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3445B7EE20D0D42E002C9CE8 /* RoadClosureViewController.m */; };
+		3466CC151EB3C2BA000DA5F4 /* YellowstoneMileageUIAutomation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3466CC141EB3C2BA000DA5F4 /* YellowstoneMileageUIAutomation.m */; };
+		346DC31620D6A0B300B30E28 /* copyright_transparent_one_line.png in Resources */ = {isa = PBXBuildFile; fileRef = 346DC31520D6A0B300B30E28 /* copyright_transparent_one_line.png */; };
+		346DC31820D6A0D300B30E28 /* ic_add_waypoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 346DC31720D6A0D200B30E28 /* ic_add_waypoint.png */; };
+		346DC31B20D6A0E000B30E28 /* ic_swap_end_points.png in Resources */ = {isa = PBXBuildFile; fileRef = 346DC31920D6A0E000B30E28 /* ic_swap_end_points.png */; };
+		346DC31C20D6A0E000B30E28 /* reset_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 346DC31A20D6A0E000B30E28 /* reset_icon.png */; };
+		3479118E1F0142B3001E29B8 /* UIColor+Hexadecimal.m in Sources */ = {isa = PBXBuildFile; fileRef = 3479118D1F0142B3001E29B8 /* UIColor+Hexadecimal.m */; };
+		3488ACE020CD6F2E0071DA12 /* Map.m in Sources */ = {isa = PBXBuildFile; fileRef = 3488ACDF20CD6F2E0071DA12 /* Map.m */; };
+		34A13B0A20D13CAC0071707C /* UIImageView+GeometryConversion.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A13B0920D13CAC0071707C /* UIImageView+GeometryConversion.m */; };
+		34ADCE5D1CEA158E008B02F9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34ADCE5C1CEA158E008B02F9 /* main.m */; };
+		34ADCE601CEA158E008B02F9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 34ADCE5F1CEA158E008B02F9 /* AppDelegate.m */; };
+		34ADCE661CEA158E008B02F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34ADCE641CEA158E008B02F9 /* Main.storyboard */; };
+		34ADCE681CEA158E008B02F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34ADCE671CEA158E008B02F9 /* Assets.xcassets */; };
+		34ADCE6B1CEA158E008B02F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34ADCE691CEA158E008B02F9 /* LaunchScreen.storyboard */; };
+		34ADCE761CEA158E008B02F9 /* YellowstoneMileageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34ADCE751CEA158E008B02F9 /* YellowstoneMileageTests.m */; };
+		34ADCE811CEA158E008B02F9 /* YellowstoneMileageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34ADCE801CEA158E008B02F9 /* YellowstoneMileageUITests.m */; };
+		34B06D961EABEEDF008902A0 /* YellowstoneMasterImage_40X40.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D8F1EABEEDF008902A0 /* YellowstoneMasterImage_40X40.png */; };
+		34B06D971EABEEDF008902A0 /* YellowstoneMasterImage_76X76.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D901EABEEDF008902A0 /* YellowstoneMasterImage_76X76.png */; };
+		34B06D981EABEEDF008902A0 /* YellowstoneMasterImage_80X80.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D911EABEEDF008902A0 /* YellowstoneMasterImage_80X80.png */; };
+		34B06D991EABEEDF008902A0 /* YellowstoneMasterImage_120X120.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D921EABEEDF008902A0 /* YellowstoneMasterImage_120X120.png */; };
+		34B06D9A1EABEEDF008902A0 /* YellowstoneMasterImage_152X152.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D931EABEEDF008902A0 /* YellowstoneMasterImage_152X152.png */; };
+		34B06D9B1EABEEDF008902A0 /* YellowstoneMasterImage_166X166.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D941EABEEDF008902A0 /* YellowstoneMasterImage_166X166.png */; };
+		34B06D9C1EABEEDF008902A0 /* YellowstoneMasterImage_180X180.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B06D951EABEEDF008902A0 /* YellowstoneMasterImage_180X180.png */; };
+		34C11E6820D96B3000143080 /* ic_ymileage_launcher.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11E6720D96B3000143080 /* ic_ymileage_launcher.png */; };
+		34C11F0520DA88BA00143080 /* bridge_bay_cg___fishing_bridge_and_rv_park.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EE620DA88B900143080 /* bridge_bay_cg___fishing_bridge_and_rv_park.png */; };
+		34C11F0620DA88BA00143080 /* pebble_creek_cg___tower_roosevelt.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EE720DA88B900143080 /* pebble_creek_cg___tower_roosevelt.png */; };
+		34C11F0720DA88BA00143080 /* canyon_and_cg___fishing_bridge_and_rv_park.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EE820DA88B900143080 /* canyon_and_cg___fishing_bridge_and_rv_park.png */; };
+		34C11F0820DA88BA00143080 /* mammoth_hot_springs_and_cg___norris_and_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EE920DA88B900143080 /* mammoth_hot_springs_and_cg___norris_and_cg.png */; };
+		34C11F0920DA88BA00143080 /* east_entrance___fishing_bridge_and_rv_park.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EEA20DA88B900143080 /* east_entrance___fishing_bridge_and_rv_park.png */; };
+		34C11F0A20DA88BA00143080 /* canyon_and_cg___tower_fall_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EEB20DA88B900143080 /* canyon_and_cg___tower_fall_cg.png */; };
+		34C11F0B20DA88BA00143080 /* grant_village_cg___lewis_lake_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EEC20DA88B900143080 /* grant_village_cg___lewis_lake_cg.png */; };
+		34C11F0C20DA88BA00143080 /* pebble_creek_cg___slough_creek_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EED20DA88B900143080 /* pebble_creek_cg___slough_creek_cg.png */; };
+		34C11F0D20DA88BA00143080 /* bridge_bay_cg___west_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EEE20DA88B900143080 /* bridge_bay_cg___west_thumb.png */; };
+		34C11F0E20DA88BA00143080 /* canyon_and_cg___tower_roosevelt.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EEF20DA88B900143080 /* canyon_and_cg___tower_roosevelt.png */; };
+		34C11F0F20DA88BA00143080 /* madison_and_cg___old_faithful.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF020DA88B900143080 /* madison_and_cg___old_faithful.png */; };
+		34C11F1020DA88BA00143080 /* madison_and_cg___norris_and_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF120DA88B900143080 /* madison_and_cg___norris_and_cg.png */; };
+		34C11F1120DA88BA00143080 /* mammoth_hot_springs_and_cg___tower_roosevelt.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF220DA88B900143080 /* mammoth_hot_springs_and_cg___tower_roosevelt.png */; };
+		34C11F1220DA88BA00143080 /* lewis_lake_cg___west_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF320DA88B900143080 /* lewis_lake_cg___west_thumb.png */; };
+		34C11F1320DA88BA00143080 /* indian_creek_cg___mammoth_hot_springs_and_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF420DA88B900143080 /* indian_creek_cg___mammoth_hot_springs_and_cg.png */; };
+		34C11F1420DA88BA00143080 /* northeast_entrance___slough_creek_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF520DA88B900143080 /* northeast_entrance___slough_creek_cg.png */; };
+		34C11F1520DA88BA00143080 /* fishing_bridge_and_rv_park___west_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF620DA88B900143080 /* fishing_bridge_and_rv_park___west_thumb.png */; };
+		34C11F1620DA88BA00143080 /* south_entrance___west_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF720DA88B900143080 /* south_entrance___west_thumb.png */; };
+		34C11F1720DA88BA00143080 /* madison_and_cg___west_entrance.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF820DA88B900143080 /* madison_and_cg___west_entrance.png */; };
+		34C11F1820DA88BA00143080 /* slough_creek_cg___tower_roosevelt.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EF920DA88B900143080 /* slough_creek_cg___tower_roosevelt.png */; };
+		34C11F1920DA88BA00143080 /* old_faithful___west_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EFA20DA88B900143080 /* old_faithful___west_thumb.png */; };
+		34C11F1A20DA88BA00143080 /* yellowstone_np_map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EFB20DA88B900143080 /* yellowstone_np_map.png */; };
+		34C11F1B20DA88BA00143080 /* canyon_and_cg___norris_and_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EFC20DA88B900143080 /* canyon_and_cg___norris_and_cg.png */; };
+		34C11F1C20DA88BA00143080 /* tower_fall_cg___tower_roosevelt.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EFD20DA88B900143080 /* tower_fall_cg___tower_roosevelt.png */; };
+		34C11F1D20DA88BA00143080 /* northeast_entrance___tower_roosevelt.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EFE20DA88B900143080 /* northeast_entrance___tower_roosevelt.png */; };
+		34C11F1E20DA88BA00143080 /* mammoth_hot_springs_and_cg___north_entrance.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11EFF20DA88B900143080 /* mammoth_hot_springs_and_cg___north_entrance.png */; };
+		34C11F1F20DA88BA00143080 /* grant_village_cg___south_entrance.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11F0020DA88B900143080 /* grant_village_cg___south_entrance.png */; };
+		34C11F2020DA88BA00143080 /* northeast_entrance___pebble_creek_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11F0120DA88B900143080 /* northeast_entrance___pebble_creek_cg.png */; };
+		34C11F2120DA88BA00143080 /* indian_creek_cg___norris_and_cg.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11F0220DA88B900143080 /* indian_creek_cg___norris_and_cg.png */; };
+		34C11F2220DA88BA00143080 /* grant_village_cg___west_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11F0320DA88B900143080 /* grant_village_cg___west_thumb.png */; };
+		34C11F2320DA88BA00143080 /* lewis_lake_cg___south_entrance.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C11F0420DA88B900143080 /* lewis_lake_cg___south_entrance.png */; };
+		34D128981EFDAD6D00E0769F /* map_touch_areas.txt in Resources */ = {isa = PBXBuildFile; fileRef = 34D128961EFDAD6D00E0769F /* map_touch_areas.txt */; };
+		34D1289A1EFDAF4100E0769F /* iosRoutes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 34D128991EFDAF4100E0769F /* iosRoutes.txt */; };
+		34D1289E1EFDBAF300E0769F /* ModelMileage.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D1289D1EFDBAF300E0769F /* ModelMileage.m */; };
+		34D128A11EFDBC5E00E0769F /* HelperDataFiles.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128A01EFDBC5E00E0769F /* HelperDataFiles.m */; };
+		34D128A51EFDBD0E00E0769F /* RectF.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128A41EFDBD0E00E0769F /* RectF.m */; };
+		34D128A91EFDBE8900E0769F /* UIImageView+HighlightImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128A81EFDBE8900E0769F /* UIImageView+HighlightImage.m */; };
+		34D128AC1EFDBFDC00E0769F /* YellowstoneMileageGraphics.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128AB1EFDBFDC00E0769F /* YellowstoneMileageGraphics.m */; };
+		34D128D61EFDEC5F00E0769F /* copyright_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = 34D128B31EFDEC5F00E0769F /* copyright_transparent.png */; };
+		34D128DC1EFDEC5F00E0769F /* ic_road_closed.png in Resources */ = {isa = PBXBuildFile; fileRef = 34D128B91EFDEC5F00E0769F /* ic_road_closed.png */; };
+		34D128ED1EFDEC5F00E0769F /* road_dates.png in Resources */ = {isa = PBXBuildFile; fileRef = 34D128CA1EFDEC5F00E0769F /* road_dates.png */; };
+		34D128F11EFDEC5F00E0769F /* yellowstone_master_image_1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 34D128CE1EFDEC5F00E0769F /* yellowstone_master_image_1024x1024.png */; };
+		34D128F51EFDECA600E0769F /* TouchNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128F41EFDECA600E0769F /* TouchNode.m */; };
+		34D128F81EFDECC900E0769F /* Route.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128F71EFDECC900E0769F /* Route.m */; };
+		34D128FB1EFDFC2300E0769F /* TouchNodes.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128FA1EFDFC2300E0769F /* TouchNodes.m */; };
+		34D128FE1EFDFC3300E0769F /* Routes.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D128FD1EFDFC3300E0769F /* Routes.m */; };
+		34D129031EFEBF6600E0769F /* strings.xml in Resources */ = {isa = PBXBuildFile; fileRef = 34D129021EFEBF6600E0769F /* strings.xml */; };
+		34D129061EFEBF8B00E0769F /* Strings.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D129051EFEBF8B00E0769F /* Strings.m */; };
+		34EE9F9C20DBE4F100E8435E /* ios_yellowstone_mileage_120x120_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9420DBE4EF00E8435E /* ios_yellowstone_mileage_120x120_icon_flattened.png */; };
+		34EE9F9D20DBE4F100E8435E /* ios_yellowstone_mileage_180x180_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9520DBE4F000E8435E /* ios_yellowstone_mileage_180x180_icon_flattened.png */; };
+		34EE9F9E20DBE4F100E8435E /* ios_yellowstone_mileage_40x40_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9620DBE4F000E8435E /* ios_yellowstone_mileage_40x40_icon_flattened.png */; };
+		34EE9F9F20DBE4F100E8435E /* ios_yellowstone_mileage_76x76_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9720DBE4F000E8435E /* ios_yellowstone_mileage_76x76_icon_flattened.png */; };
+		34EE9FA020DBE4F100E8435E /* ios_yellowstone_mileage_152x152_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9820DBE4F000E8435E /* ios_yellowstone_mileage_152x152_icon_flattened.png */; };
+		34EE9FA120DBE4F100E8435E /* ios_yellowstone_mileage_167x167_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9920DBE4F100E8435E /* ios_yellowstone_mileage_167x167_icon_flattened.png */; };
+		34EE9FA220DBE4F100E8435E /* ios_yellowstone_mileage_80x80_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9A20DBE4F100E8435E /* ios_yellowstone_mileage_80x80_icon_flattened.png */; };
+		34EE9FA320DBE4F100E8435E /* ios_yellowstone_mileage_1024x1024_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9F9B20DBE4F100E8435E /* ios_yellowstone_mileage_1024x1024_icon_flattened.png */; };
+		34EE9FA520DBE8FA00E8435E /* ios_yellowstone_mileage_1024x1024_NoAlpha_icon_flattened.png in Resources */ = {isa = PBXBuildFile; fileRef = 34EE9FA420DBE8FA00E8435E /* ios_yellowstone_mileage_1024x1024_NoAlpha_icon_flattened.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		34ADCE721CEA158E008B02F9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 34ADCE501CEA158E008B02F9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34ADCE571CEA158E008B02F9;
+			remoteInfo = YellowstoneMileage;
+		};
+		34ADCE7D1CEA158E008B02F9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 34ADCE501CEA158E008B02F9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34ADCE571CEA158E008B02F9;
+			remoteInfo = YellowstoneMileage;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		340060E21DC61921006570EB /* YellowstoneNationalParkMap76X76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneNationalParkMap76X76.png; sourceTree = "<group>"; };
+		340060E31DC61921006570EB /* YellowstoneNationalParkMap120X120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneNationalParkMap120X120.png; sourceTree = "<group>"; };
+		340060E41DC61921006570EB /* YellowstoneNationalParkMap152X152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneNationalParkMap152X152.png; sourceTree = "<group>"; };
+		340060E51DC61921006570EB /* YellowstoneNationalParkMap167X167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneNationalParkMap167X167.png; sourceTree = "<group>"; };
+		340060EA1DC61AFE006570EB /* YellowstoneNationalParkMap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneNationalParkMap.png; sourceTree = "<group>"; };
+		3409BC7B20E14D56004716CA /* road_dates_960x960.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = road_dates_960x960.png; sourceTree = "<group>"; };
+		3435D26D1CEE8EE500AD7C61 /* MileageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MileageViewController.h; sourceTree = "<group>"; };
+		3435D26E1CEE8EE500AD7C61 /* MileageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MileageViewController.m; sourceTree = "<group>"; };
+		3445B7E120D028C1002C9CE8 /* OverlayRoads.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OverlayRoads.h; sourceTree = "<group>"; };
+		3445B7E220D028C2002C9CE8 /* OverlayRoads.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OverlayRoads.m; sourceTree = "<group>"; };
+		3445B7E420D02F06002C9CE8 /* end_point_data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = end_point_data.txt; sourceTree = "<group>"; };
+		3445B7E520D02F06002C9CE8 /* attributions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = attributions.txt; sourceTree = "<group>"; };
+		3445B7E820D02F0D002C9CE8 /* route_overlay_pngs.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = route_overlay_pngs.txt; sourceTree = "<group>"; };
+		3445B7EA20D0488B002C9CE8 /* OverlayRoad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OverlayRoad.h; sourceTree = "<group>"; };
+		3445B7EB20D0488B002C9CE8 /* OverlayRoad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OverlayRoad.m; sourceTree = "<group>"; };
+		3445B7ED20D0D42E002C9CE8 /* RoadClosureViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RoadClosureViewController.h; sourceTree = "<group>"; };
+		3445B7EE20D0D42E002C9CE8 /* RoadClosureViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RoadClosureViewController.m; sourceTree = "<group>"; };
+		3466CC141EB3C2BA000DA5F4 /* YellowstoneMileageUIAutomation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YellowstoneMileageUIAutomation.m; sourceTree = "<group>"; };
+		346DC31520D6A0B300B30E28 /* copyright_transparent_one_line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = copyright_transparent_one_line.png; sourceTree = "<group>"; };
+		346DC31720D6A0D200B30E28 /* ic_add_waypoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_add_waypoint.png; sourceTree = "<group>"; };
+		346DC31920D6A0E000B30E28 /* ic_swap_end_points.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_swap_end_points.png; sourceTree = "<group>"; };
+		346DC31A20D6A0E000B30E28 /* reset_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reset_icon.png; sourceTree = "<group>"; };
+		3479118C1F0142B3001E29B8 /* UIColor+Hexadecimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hexadecimal.h"; sourceTree = "<group>"; };
+		3479118D1F0142B3001E29B8 /* UIColor+Hexadecimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hexadecimal.m"; sourceTree = "<group>"; };
+		3488ACDE20CD6F2D0071DA12 /* Map.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Map.h; sourceTree = "<group>"; };
+		3488ACDF20CD6F2E0071DA12 /* Map.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Map.m; sourceTree = "<group>"; };
+		34A13B0820D13CAC0071707C /* UIImageView+GeometryConversion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+GeometryConversion.h"; sourceTree = "<group>"; };
+		34A13B0920D13CAC0071707C /* UIImageView+GeometryConversion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+GeometryConversion.m"; sourceTree = "<group>"; };
+		34ADCE581CEA158E008B02F9 /* YellowstoneMileage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YellowstoneMileage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		34ADCE5C1CEA158E008B02F9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		34ADCE5E1CEA158E008B02F9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = YellowstoneMileage/AppDelegate.h; sourceTree = "<group>"; };
+		34ADCE5F1CEA158E008B02F9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = YellowstoneMileage/AppDelegate.m; sourceTree = "<group>"; };
+		34ADCE651CEA158E008B02F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		34ADCE671CEA158E008B02F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		34ADCE6A1CEA158E008B02F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		34ADCE6C1CEA158E008B02F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34ADCE711CEA158E008B02F9 /* YellowstoneMileageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YellowstoneMileageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		34ADCE751CEA158E008B02F9 /* YellowstoneMileageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YellowstoneMileageTests.m; sourceTree = "<group>"; };
+		34ADCE771CEA158E008B02F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34ADCE7C1CEA158E008B02F9 /* YellowstoneMileageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YellowstoneMileageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		34ADCE801CEA158E008B02F9 /* YellowstoneMileageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YellowstoneMileageUITests.m; sourceTree = "<group>"; };
+		34ADCE821CEA158E008B02F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34B06D8F1EABEEDF008902A0 /* YellowstoneMasterImage_40X40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_40X40.png; sourceTree = "<group>"; };
+		34B06D901EABEEDF008902A0 /* YellowstoneMasterImage_76X76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_76X76.png; sourceTree = "<group>"; };
+		34B06D911EABEEDF008902A0 /* YellowstoneMasterImage_80X80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_80X80.png; sourceTree = "<group>"; };
+		34B06D921EABEEDF008902A0 /* YellowstoneMasterImage_120X120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_120X120.png; sourceTree = "<group>"; };
+		34B06D931EABEEDF008902A0 /* YellowstoneMasterImage_152X152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_152X152.png; sourceTree = "<group>"; };
+		34B06D941EABEEDF008902A0 /* YellowstoneMasterImage_166X166.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_166X166.png; sourceTree = "<group>"; };
+		34B06D951EABEEDF008902A0 /* YellowstoneMasterImage_180X180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowstoneMasterImage_180X180.png; sourceTree = "<group>"; };
+		34C11E6720D96B3000143080 /* ic_ymileage_launcher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_ymileage_launcher.png; sourceTree = "<group>"; };
+		34C11EE620DA88B900143080 /* bridge_bay_cg___fishing_bridge_and_rv_park.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bridge_bay_cg___fishing_bridge_and_rv_park.png"; sourceTree = "<group>"; };
+		34C11EE720DA88B900143080 /* pebble_creek_cg___tower_roosevelt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pebble_creek_cg___tower_roosevelt.png"; sourceTree = "<group>"; };
+		34C11EE820DA88B900143080 /* canyon_and_cg___fishing_bridge_and_rv_park.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "canyon_and_cg___fishing_bridge_and_rv_park.png"; sourceTree = "<group>"; };
+		34C11EE920DA88B900143080 /* mammoth_hot_springs_and_cg___norris_and_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mammoth_hot_springs_and_cg___norris_and_cg.png"; sourceTree = "<group>"; };
+		34C11EEA20DA88B900143080 /* east_entrance___fishing_bridge_and_rv_park.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "east_entrance___fishing_bridge_and_rv_park.png"; sourceTree = "<group>"; };
+		34C11EEB20DA88B900143080 /* canyon_and_cg___tower_fall_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "canyon_and_cg___tower_fall_cg.png"; sourceTree = "<group>"; };
+		34C11EEC20DA88B900143080 /* grant_village_cg___lewis_lake_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grant_village_cg___lewis_lake_cg.png"; sourceTree = "<group>"; };
+		34C11EED20DA88B900143080 /* pebble_creek_cg___slough_creek_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pebble_creek_cg___slough_creek_cg.png"; sourceTree = "<group>"; };
+		34C11EEE20DA88B900143080 /* bridge_bay_cg___west_thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bridge_bay_cg___west_thumb.png"; sourceTree = "<group>"; };
+		34C11EEF20DA88B900143080 /* canyon_and_cg___tower_roosevelt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "canyon_and_cg___tower_roosevelt.png"; sourceTree = "<group>"; };
+		34C11EF020DA88B900143080 /* madison_and_cg___old_faithful.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "madison_and_cg___old_faithful.png"; sourceTree = "<group>"; };
+		34C11EF120DA88B900143080 /* madison_and_cg___norris_and_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "madison_and_cg___norris_and_cg.png"; sourceTree = "<group>"; };
+		34C11EF220DA88B900143080 /* mammoth_hot_springs_and_cg___tower_roosevelt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mammoth_hot_springs_and_cg___tower_roosevelt.png"; sourceTree = "<group>"; };
+		34C11EF320DA88B900143080 /* lewis_lake_cg___west_thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lewis_lake_cg___west_thumb.png"; sourceTree = "<group>"; };
+		34C11EF420DA88B900143080 /* indian_creek_cg___mammoth_hot_springs_and_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "indian_creek_cg___mammoth_hot_springs_and_cg.png"; sourceTree = "<group>"; };
+		34C11EF520DA88B900143080 /* northeast_entrance___slough_creek_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "northeast_entrance___slough_creek_cg.png"; sourceTree = "<group>"; };
+		34C11EF620DA88B900143080 /* fishing_bridge_and_rv_park___west_thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fishing_bridge_and_rv_park___west_thumb.png"; sourceTree = "<group>"; };
+		34C11EF720DA88B900143080 /* south_entrance___west_thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "south_entrance___west_thumb.png"; sourceTree = "<group>"; };
+		34C11EF820DA88B900143080 /* madison_and_cg___west_entrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "madison_and_cg___west_entrance.png"; sourceTree = "<group>"; };
+		34C11EF920DA88B900143080 /* slough_creek_cg___tower_roosevelt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slough_creek_cg___tower_roosevelt.png"; sourceTree = "<group>"; };
+		34C11EFA20DA88B900143080 /* old_faithful___west_thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "old_faithful___west_thumb.png"; sourceTree = "<group>"; };
+		34C11EFB20DA88B900143080 /* yellowstone_np_map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellowstone_np_map.png; sourceTree = "<group>"; };
+		34C11EFC20DA88B900143080 /* canyon_and_cg___norris_and_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "canyon_and_cg___norris_and_cg.png"; sourceTree = "<group>"; };
+		34C11EFD20DA88B900143080 /* tower_fall_cg___tower_roosevelt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tower_fall_cg___tower_roosevelt.png"; sourceTree = "<group>"; };
+		34C11EFE20DA88B900143080 /* northeast_entrance___tower_roosevelt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "northeast_entrance___tower_roosevelt.png"; sourceTree = "<group>"; };
+		34C11EFF20DA88B900143080 /* mammoth_hot_springs_and_cg___north_entrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mammoth_hot_springs_and_cg___north_entrance.png"; sourceTree = "<group>"; };
+		34C11F0020DA88B900143080 /* grant_village_cg___south_entrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grant_village_cg___south_entrance.png"; sourceTree = "<group>"; };
+		34C11F0120DA88B900143080 /* northeast_entrance___pebble_creek_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "northeast_entrance___pebble_creek_cg.png"; sourceTree = "<group>"; };
+		34C11F0220DA88B900143080 /* indian_creek_cg___norris_and_cg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "indian_creek_cg___norris_and_cg.png"; sourceTree = "<group>"; };
+		34C11F0320DA88B900143080 /* grant_village_cg___west_thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grant_village_cg___west_thumb.png"; sourceTree = "<group>"; };
+		34C11F0420DA88B900143080 /* lewis_lake_cg___south_entrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lewis_lake_cg___south_entrance.png"; sourceTree = "<group>"; };
+		34D128961EFDAD6D00E0769F /* map_touch_areas.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map_touch_areas.txt; sourceTree = "<group>"; };
+		34D128991EFDAF4100E0769F /* iosRoutes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iosRoutes.txt; sourceTree = "<group>"; };
+		34D1289C1EFDBAF300E0769F /* ModelMileage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModelMileage.h; sourceTree = "<group>"; };
+		34D1289D1EFDBAF300E0769F /* ModelMileage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModelMileage.m; sourceTree = "<group>"; };
+		34D1289F1EFDBC5E00E0769F /* HelperDataFiles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelperDataFiles.h; sourceTree = "<group>"; };
+		34D128A01EFDBC5E00E0769F /* HelperDataFiles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelperDataFiles.m; sourceTree = "<group>"; };
+		34D128A31EFDBD0E00E0769F /* RectF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RectF.h; sourceTree = "<group>"; };
+		34D128A41EFDBD0E00E0769F /* RectF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RectF.m; sourceTree = "<group>"; };
+		34D128A71EFDBE8900E0769F /* UIImageView+HighlightImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+HighlightImage.h"; sourceTree = "<group>"; };
+		34D128A81EFDBE8900E0769F /* UIImageView+HighlightImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+HighlightImage.m"; sourceTree = "<group>"; };
+		34D128AA1EFDBFDC00E0769F /* YellowstoneMileageGraphics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YellowstoneMileageGraphics.h; sourceTree = "<group>"; };
+		34D128AB1EFDBFDC00E0769F /* YellowstoneMileageGraphics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YellowstoneMileageGraphics.m; sourceTree = "<group>"; };
+		34D128B31EFDEC5F00E0769F /* copyright_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = copyright_transparent.png; sourceTree = "<group>"; };
+		34D128B91EFDEC5F00E0769F /* ic_road_closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_road_closed.png; sourceTree = "<group>"; };
+		34D128CA1EFDEC5F00E0769F /* road_dates.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = road_dates.png; sourceTree = "<group>"; };
+		34D128CE1EFDEC5F00E0769F /* yellowstone_master_image_1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellowstone_master_image_1024x1024.png; sourceTree = "<group>"; };
+		34D128F31EFDECA600E0769F /* TouchNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchNode.h; sourceTree = "<group>"; };
+		34D128F41EFDECA600E0769F /* TouchNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchNode.m; sourceTree = "<group>"; };
+		34D128F61EFDECC900E0769F /* Route.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Route.h; sourceTree = "<group>"; };
+		34D128F71EFDECC900E0769F /* Route.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Route.m; sourceTree = "<group>"; };
+		34D128F91EFDFC2300E0769F /* TouchNodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchNodes.h; sourceTree = "<group>"; };
+		34D128FA1EFDFC2300E0769F /* TouchNodes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchNodes.m; sourceTree = "<group>"; };
+		34D128FC1EFDFC3300E0769F /* Routes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Routes.h; sourceTree = "<group>"; };
+		34D128FD1EFDFC3300E0769F /* Routes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Routes.m; sourceTree = "<group>"; };
+		34D129011EFDFEDF00E0769F /* GlobalConstantsAndTypesDefinitions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlobalConstantsAndTypesDefinitions.h; sourceTree = "<group>"; };
+		34D129021EFEBF6600E0769F /* strings.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = strings.xml; sourceTree = "<group>"; };
+		34D129041EFEBF8B00E0769F /* Strings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Strings.h; sourceTree = "<group>"; };
+		34D129051EFEBF8B00E0769F /* Strings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Strings.m; sourceTree = "<group>"; };
+		34EE9F9420DBE4EF00E8435E /* ios_yellowstone_mileage_120x120_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_120x120_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9520DBE4F000E8435E /* ios_yellowstone_mileage_180x180_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_180x180_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9620DBE4F000E8435E /* ios_yellowstone_mileage_40x40_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_40x40_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9720DBE4F000E8435E /* ios_yellowstone_mileage_76x76_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_76x76_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9820DBE4F000E8435E /* ios_yellowstone_mileage_152x152_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_152x152_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9920DBE4F100E8435E /* ios_yellowstone_mileage_167x167_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_167x167_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9A20DBE4F100E8435E /* ios_yellowstone_mileage_80x80_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_80x80_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9F9B20DBE4F100E8435E /* ios_yellowstone_mileage_1024x1024_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_1024x1024_icon_flattened.png; sourceTree = "<group>"; };
+		34EE9FA420DBE8FA00E8435E /* ios_yellowstone_mileage_1024x1024_NoAlpha_icon_flattened.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios_yellowstone_mileage_1024x1024_NoAlpha_icon_flattened.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		34ADCE551CEA158E008B02F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34ADCE6E1CEA158E008B02F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34ADCE791CEA158E008B02F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3475F13220D01A420014D0F3 /* MileageClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3488ACDE20CD6F2D0071DA12 /* Map.h */,
+				3488ACDF20CD6F2E0071DA12 /* Map.m */,
+				3445B7EA20D0488B002C9CE8 /* OverlayRoad.h */,
+				3445B7EB20D0488B002C9CE8 /* OverlayRoad.m */,
+				3445B7E120D028C1002C9CE8 /* OverlayRoads.h */,
+				3445B7E220D028C2002C9CE8 /* OverlayRoads.m */,
+				34D128A31EFDBD0E00E0769F /* RectF.h */,
+				34D128A41EFDBD0E00E0769F /* RectF.m */,
+				34D128F61EFDECC900E0769F /* Route.h */,
+				34D128F71EFDECC900E0769F /* Route.m */,
+				34D128FC1EFDFC3300E0769F /* Routes.h */,
+				34D128FD1EFDFC3300E0769F /* Routes.m */,
+				34D129041EFEBF8B00E0769F /* Strings.h */,
+				34D129051EFEBF8B00E0769F /* Strings.m */,
+				34D128F31EFDECA600E0769F /* TouchNode.h */,
+				34D128F41EFDECA600E0769F /* TouchNode.m */,
+				34D128F91EFDFC2300E0769F /* TouchNodes.h */,
+				34D128FA1EFDFC2300E0769F /* TouchNodes.m */,
+				34D128AA1EFDBFDC00E0769F /* YellowstoneMileageGraphics.h */,
+				34D128AB1EFDBFDC00E0769F /* YellowstoneMileageGraphics.m */,
+			);
+			path = MileageClasses;
+			sourceTree = "<group>";
+		};
+		3475F13320D01A870014D0F3 /* UtilityClasses */ = {
+			isa = PBXGroup;
+			children = (
+				34A13B0820D13CAC0071707C /* UIImageView+GeometryConversion.h */,
+				34A13B0920D13CAC0071707C /* UIImageView+GeometryConversion.m */,
+				34D128A71EFDBE8900E0769F /* UIImageView+HighlightImage.h */,
+				34D128A81EFDBE8900E0769F /* UIImageView+HighlightImage.m */,
+				3479118C1F0142B3001E29B8 /* UIColor+Hexadecimal.h */,
+				3479118D1F0142B3001E29B8 /* UIColor+Hexadecimal.m */,
+			);
+			path = UtilityClasses;
+			sourceTree = "<group>";
+		};
+		3475F13420D01AE80014D0F3 /* GlobalConstantsAndTypesDefinition */ = {
+			isa = PBXGroup;
+			children = (
+				34D129011EFDFEDF00E0769F /* GlobalConstantsAndTypesDefinitions.h */,
+			);
+			path = GlobalConstantsAndTypesDefinition;
+			sourceTree = "<group>";
+		};
+		3475F13520D01B080014D0F3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				34D1289C1EFDBAF300E0769F /* ModelMileage.h */,
+				34D1289D1EFDBAF300E0769F /* ModelMileage.m */,
+				34D1289F1EFDBC5E00E0769F /* HelperDataFiles.h */,
+				34D128A01EFDBC5E00E0769F /* HelperDataFiles.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3475F13620D01B3C0014D0F3 /* MileageViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3435D26D1CEE8EE500AD7C61 /* MileageViewController.h */,
+				3435D26E1CEE8EE500AD7C61 /* MileageViewController.m */,
+				3445B7ED20D0D42E002C9CE8 /* RoadClosureViewController.h */,
+				3445B7EE20D0D42E002C9CE8 /* RoadClosureViewController.m */,
+			);
+			path = MileageViewControllers;
+			sourceTree = "<group>";
+		};
+		3475F13820D01BBA0014D0F3 /* MileageIconPNGs */ = {
+			isa = PBXGroup;
+			children = (
+				3409BC7B20E14D56004716CA /* road_dates_960x960.png */,
+				34EE9FA420DBE8FA00E8435E /* ios_yellowstone_mileage_1024x1024_NoAlpha_icon_flattened.png */,
+				34EE9F9620DBE4F000E8435E /* ios_yellowstone_mileage_40x40_icon_flattened.png */,
+				34EE9F9720DBE4F000E8435E /* ios_yellowstone_mileage_76x76_icon_flattened.png */,
+				34EE9F9A20DBE4F100E8435E /* ios_yellowstone_mileage_80x80_icon_flattened.png */,
+				34EE9F9420DBE4EF00E8435E /* ios_yellowstone_mileage_120x120_icon_flattened.png */,
+				34EE9F9820DBE4F000E8435E /* ios_yellowstone_mileage_152x152_icon_flattened.png */,
+				34EE9F9920DBE4F100E8435E /* ios_yellowstone_mileage_167x167_icon_flattened.png */,
+				34EE9F9520DBE4F000E8435E /* ios_yellowstone_mileage_180x180_icon_flattened.png */,
+				34EE9F9B20DBE4F100E8435E /* ios_yellowstone_mileage_1024x1024_icon_flattened.png */,
+				34C11E6720D96B3000143080 /* ic_ymileage_launcher.png */,
+				346DC31920D6A0E000B30E28 /* ic_swap_end_points.png */,
+				346DC31A20D6A0E000B30E28 /* reset_icon.png */,
+				346DC31720D6A0D200B30E28 /* ic_add_waypoint.png */,
+				346DC31520D6A0B300B30E28 /* copyright_transparent_one_line.png */,
+				34D128B31EFDEC5F00E0769F /* copyright_transparent.png */,
+				34D128B91EFDEC5F00E0769F /* ic_road_closed.png */,
+				34D128CA1EFDEC5F00E0769F /* road_dates.png */,
+			);
+			path = MileageIconPNGs;
+			sourceTree = "<group>";
+		};
+		3475F13920D01CE70014D0F3 /* YellowstoneMapsPNGs */ = {
+			isa = PBXGroup;
+			children = (
+				34D128CE1EFDEC5F00E0769F /* yellowstone_master_image_1024x1024.png */,
+				34B06D8F1EABEEDF008902A0 /* YellowstoneMasterImage_40X40.png */,
+				34B06D901EABEEDF008902A0 /* YellowstoneMasterImage_76X76.png */,
+				34B06D911EABEEDF008902A0 /* YellowstoneMasterImage_80X80.png */,
+				34B06D921EABEEDF008902A0 /* YellowstoneMasterImage_120X120.png */,
+				34B06D931EABEEDF008902A0 /* YellowstoneMasterImage_152X152.png */,
+				34B06D941EABEEDF008902A0 /* YellowstoneMasterImage_166X166.png */,
+				34B06D951EABEEDF008902A0 /* YellowstoneMasterImage_180X180.png */,
+				340060EA1DC61AFE006570EB /* YellowstoneNationalParkMap.png */,
+				340060E21DC61921006570EB /* YellowstoneNationalParkMap76X76.png */,
+				340060E31DC61921006570EB /* YellowstoneNationalParkMap120X120.png */,
+				340060E41DC61921006570EB /* YellowstoneNationalParkMap152X152.png */,
+				340060E51DC61921006570EB /* YellowstoneNationalParkMap167X167.png */,
+			);
+			path = YellowstoneMapsPNGs;
+			sourceTree = "<group>";
+		};
+		3475F13A20D01D230014D0F3 /* MileageDataFiles */ = {
+			isa = PBXGroup;
+			children = (
+				3445B7E820D02F0D002C9CE8 /* route_overlay_pngs.txt */,
+				3445B7E520D02F06002C9CE8 /* attributions.txt */,
+				3445B7E420D02F06002C9CE8 /* end_point_data.txt */,
+				34D128991EFDAF4100E0769F /* iosRoutes.txt */,
+				34D128961EFDAD6D00E0769F /* map_touch_areas.txt */,
+				34D129021EFEBF6600E0769F /* strings.xml */,
+			);
+			path = MileageDataFiles;
+			sourceTree = "<group>";
+		};
+		34ADCE4F1CEA158E008B02F9 = {
+			isa = PBXGroup;
+			children = (
+				34C11EE520DA88B900143080 /* MileageRoutePNGs */,
+				34ADCE641CEA158E008B02F9 /* Main.storyboard */,
+				34ADCE5E1CEA158E008B02F9 /* AppDelegate.h */,
+				34ADCE5F1CEA158E008B02F9 /* AppDelegate.m */,
+				3475F13520D01B080014D0F3 /* Model */,
+				3475F13420D01AE80014D0F3 /* GlobalConstantsAndTypesDefinition */,
+				3475F13620D01B3C0014D0F3 /* MileageViewControllers */,
+				3475F13220D01A420014D0F3 /* MileageClasses */,
+				3475F13A20D01D230014D0F3 /* MileageDataFiles */,
+				3475F13820D01BBA0014D0F3 /* MileageIconPNGs */,
+				3475F13320D01A870014D0F3 /* UtilityClasses */,
+				3475F13920D01CE70014D0F3 /* YellowstoneMapsPNGs */,
+				34ADCE5A1CEA158E008B02F9 /* YellowstoneMileage */,
+				34ADCE741CEA158E008B02F9 /* YellowstoneMileageTests */,
+				34ADCE7F1CEA158E008B02F9 /* YellowstoneMileageUITests */,
+				34ADCE591CEA158E008B02F9 /* Products */,
+				3466CC141EB3C2BA000DA5F4 /* YellowstoneMileageUIAutomation.m */,
+			);
+			sourceTree = "<group>";
+		};
+		34ADCE591CEA158E008B02F9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34ADCE581CEA158E008B02F9 /* YellowstoneMileage.app */,
+				34ADCE711CEA158E008B02F9 /* YellowstoneMileageTests.xctest */,
+				34ADCE7C1CEA158E008B02F9 /* YellowstoneMileageUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		34ADCE5A1CEA158E008B02F9 /* YellowstoneMileage */ = {
+			isa = PBXGroup;
+			children = (
+				34ADCE671CEA158E008B02F9 /* Assets.xcassets */,
+				34ADCE691CEA158E008B02F9 /* LaunchScreen.storyboard */,
+				34ADCE6C1CEA158E008B02F9 /* Info.plist */,
+				34ADCE5B1CEA158E008B02F9 /* Supporting Files */,
+			);
+			path = YellowstoneMileage;
+			sourceTree = "<group>";
+		};
+		34ADCE5B1CEA158E008B02F9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				34ADCE5C1CEA158E008B02F9 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		34ADCE741CEA158E008B02F9 /* YellowstoneMileageTests */ = {
+			isa = PBXGroup;
+			children = (
+				34ADCE751CEA158E008B02F9 /* YellowstoneMileageTests.m */,
+				34ADCE771CEA158E008B02F9 /* Info.plist */,
+			);
+			path = YellowstoneMileageTests;
+			sourceTree = "<group>";
+		};
+		34ADCE7F1CEA158E008B02F9 /* YellowstoneMileageUITests */ = {
+			isa = PBXGroup;
+			children = (
+				34ADCE801CEA158E008B02F9 /* YellowstoneMileageUITests.m */,
+				34ADCE821CEA158E008B02F9 /* Info.plist */,
+			);
+			path = YellowstoneMileageUITests;
+			sourceTree = "<group>";
+		};
+		34C11EE520DA88B900143080 /* MileageRoutePNGs */ = {
+			isa = PBXGroup;
+			children = (
+				34C11EE620DA88B900143080 /* bridge_bay_cg___fishing_bridge_and_rv_park.png */,
+				34C11EE720DA88B900143080 /* pebble_creek_cg___tower_roosevelt.png */,
+				34C11EE820DA88B900143080 /* canyon_and_cg___fishing_bridge_and_rv_park.png */,
+				34C11EE920DA88B900143080 /* mammoth_hot_springs_and_cg___norris_and_cg.png */,
+				34C11EEA20DA88B900143080 /* east_entrance___fishing_bridge_and_rv_park.png */,
+				34C11EEB20DA88B900143080 /* canyon_and_cg___tower_fall_cg.png */,
+				34C11EEC20DA88B900143080 /* grant_village_cg___lewis_lake_cg.png */,
+				34C11EED20DA88B900143080 /* pebble_creek_cg___slough_creek_cg.png */,
+				34C11EEE20DA88B900143080 /* bridge_bay_cg___west_thumb.png */,
+				34C11EEF20DA88B900143080 /* canyon_and_cg___tower_roosevelt.png */,
+				34C11EF020DA88B900143080 /* madison_and_cg___old_faithful.png */,
+				34C11EF120DA88B900143080 /* madison_and_cg___norris_and_cg.png */,
+				34C11EF220DA88B900143080 /* mammoth_hot_springs_and_cg___tower_roosevelt.png */,
+				34C11EF320DA88B900143080 /* lewis_lake_cg___west_thumb.png */,
+				34C11EF420DA88B900143080 /* indian_creek_cg___mammoth_hot_springs_and_cg.png */,
+				34C11EF520DA88B900143080 /* northeast_entrance___slough_creek_cg.png */,
+				34C11EF620DA88B900143080 /* fishing_bridge_and_rv_park___west_thumb.png */,
+				34C11EF720DA88B900143080 /* south_entrance___west_thumb.png */,
+				34C11EF820DA88B900143080 /* madison_and_cg___west_entrance.png */,
+				34C11EF920DA88B900143080 /* slough_creek_cg___tower_roosevelt.png */,
+				34C11EFA20DA88B900143080 /* old_faithful___west_thumb.png */,
+				34C11EFB20DA88B900143080 /* yellowstone_np_map.png */,
+				34C11EFC20DA88B900143080 /* canyon_and_cg___norris_and_cg.png */,
+				34C11EFD20DA88B900143080 /* tower_fall_cg___tower_roosevelt.png */,
+				34C11EFE20DA88B900143080 /* northeast_entrance___tower_roosevelt.png */,
+				34C11EFF20DA88B900143080 /* mammoth_hot_springs_and_cg___north_entrance.png */,
+				34C11F0020DA88B900143080 /* grant_village_cg___south_entrance.png */,
+				34C11F0120DA88B900143080 /* northeast_entrance___pebble_creek_cg.png */,
+				34C11F0220DA88B900143080 /* indian_creek_cg___norris_and_cg.png */,
+				34C11F0320DA88B900143080 /* grant_village_cg___west_thumb.png */,
+				34C11F0420DA88B900143080 /* lewis_lake_cg___south_entrance.png */,
+			);
+			path = MileageRoutePNGs;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		34ADCE571CEA158E008B02F9 /* YellowstoneMileage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34ADCE851CEA158E008B02F9 /* Build configuration list for PBXNativeTarget "YellowstoneMileage" */;
+			buildPhases = (
+				34ADCE541CEA158E008B02F9 /* Sources */,
+				34ADCE551CEA158E008B02F9 /* Frameworks */,
+				34ADCE561CEA158E008B02F9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = YellowstoneMileage;
+			productName = YellowstoneMileage;
+			productReference = 34ADCE581CEA158E008B02F9 /* YellowstoneMileage.app */;
+			productType = "com.apple.product-type.application";
+		};
+		34ADCE701CEA158E008B02F9 /* YellowstoneMileageTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34ADCE881CEA158E008B02F9 /* Build configuration list for PBXNativeTarget "YellowstoneMileageTests" */;
+			buildPhases = (
+				34ADCE6D1CEA158E008B02F9 /* Sources */,
+				34ADCE6E1CEA158E008B02F9 /* Frameworks */,
+				34ADCE6F1CEA158E008B02F9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				34ADCE731CEA158E008B02F9 /* PBXTargetDependency */,
+			);
+			name = YellowstoneMileageTests;
+			productName = YellowstoneMileageTests;
+			productReference = 34ADCE711CEA158E008B02F9 /* YellowstoneMileageTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		34ADCE7B1CEA158E008B02F9 /* YellowstoneMileageUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34ADCE8B1CEA158E008B02F9 /* Build configuration list for PBXNativeTarget "YellowstoneMileageUITests" */;
+			buildPhases = (
+				34ADCE781CEA158E008B02F9 /* Sources */,
+				34ADCE791CEA158E008B02F9 /* Frameworks */,
+				34ADCE7A1CEA158E008B02F9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				34ADCE7E1CEA158E008B02F9 /* PBXTargetDependency */,
+			);
+			name = YellowstoneMileageUITests;
+			productName = YellowstoneMileageUITests;
+			productReference = 34ADCE7C1CEA158E008B02F9 /* YellowstoneMileageUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		34ADCE501CEA158E008B02F9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = "Bill Weatherwax";
+				TargetAttributes = {
+					34ADCE571CEA158E008B02F9 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = XZMW4PYK4Y;
+					};
+					34ADCE701CEA158E008B02F9 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 82RS4M8A2F;
+						TestTargetID = 34ADCE571CEA158E008B02F9;
+					};
+					34ADCE7B1CEA158E008B02F9 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 82RS4M8A2F;
+						TestTargetID = 34ADCE571CEA158E008B02F9;
+					};
+				};
+			};
+			buildConfigurationList = 34ADCE531CEA158E008B02F9 /* Build configuration list for PBXProject "YellowstoneMileage" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 34ADCE4F1CEA158E008B02F9;
+			productRefGroup = 34ADCE591CEA158E008B02F9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				34ADCE571CEA158E008B02F9 /* YellowstoneMileage */,
+				34ADCE701CEA158E008B02F9 /* YellowstoneMileageTests */,
+				34ADCE7B1CEA158E008B02F9 /* YellowstoneMileageUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		34ADCE561CEA158E008B02F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34C11F1820DA88BA00143080 /* slough_creek_cg___tower_roosevelt.png in Resources */,
+				34C11F1A20DA88BA00143080 /* yellowstone_np_map.png in Resources */,
+				34EE9F9E20DBE4F100E8435E /* ios_yellowstone_mileage_40x40_icon_flattened.png in Resources */,
+				34C11F1320DA88BA00143080 /* indian_creek_cg___mammoth_hot_springs_and_cg.png in Resources */,
+				34D128ED1EFDEC5F00E0769F /* road_dates.png in Resources */,
+				34EE9F9D20DBE4F100E8435E /* ios_yellowstone_mileage_180x180_icon_flattened.png in Resources */,
+				34EE9FA520DBE8FA00E8435E /* ios_yellowstone_mileage_1024x1024_NoAlpha_icon_flattened.png in Resources */,
+				3445B7E920D02F0D002C9CE8 /* route_overlay_pngs.txt in Resources */,
+				34C11E6820D96B3000143080 /* ic_ymileage_launcher.png in Resources */,
+				34C11F2320DA88BA00143080 /* lewis_lake_cg___south_entrance.png in Resources */,
+				340060EB1DC61AFE006570EB /* YellowstoneNationalParkMap.png in Resources */,
+				34C11F1520DA88BA00143080 /* fishing_bridge_and_rv_park___west_thumb.png in Resources */,
+				34C11F0C20DA88BA00143080 /* pebble_creek_cg___slough_creek_cg.png in Resources */,
+				34B06D9A1EABEEDF008902A0 /* YellowstoneMasterImage_152X152.png in Resources */,
+				346DC31820D6A0D300B30E28 /* ic_add_waypoint.png in Resources */,
+				340060E91DC61921006570EB /* YellowstoneNationalParkMap167X167.png in Resources */,
+				34C11F1420DA88BA00143080 /* northeast_entrance___slough_creek_cg.png in Resources */,
+				340060E71DC61921006570EB /* YellowstoneNationalParkMap120X120.png in Resources */,
+				34C11F0F20DA88BA00143080 /* madison_and_cg___old_faithful.png in Resources */,
+				34C11F1E20DA88BA00143080 /* mammoth_hot_springs_and_cg___north_entrance.png in Resources */,
+				34C11F1F20DA88BA00143080 /* grant_village_cg___south_entrance.png in Resources */,
+				34EE9FA020DBE4F100E8435E /* ios_yellowstone_mileage_152x152_icon_flattened.png in Resources */,
+				34D128981EFDAD6D00E0769F /* map_touch_areas.txt in Resources */,
+				34B06D9B1EABEEDF008902A0 /* YellowstoneMasterImage_166X166.png in Resources */,
+				34EE9FA320DBE4F100E8435E /* ios_yellowstone_mileage_1024x1024_icon_flattened.png in Resources */,
+				340060E81DC61921006570EB /* YellowstoneNationalParkMap152X152.png in Resources */,
+				34C11F1920DA88BA00143080 /* old_faithful___west_thumb.png in Resources */,
+				3445B7E620D02F07002C9CE8 /* end_point_data.txt in Resources */,
+				34C11F1D20DA88BA00143080 /* northeast_entrance___tower_roosevelt.png in Resources */,
+				34C11F2220DA88BA00143080 /* grant_village_cg___west_thumb.png in Resources */,
+				346DC31B20D6A0E000B30E28 /* ic_swap_end_points.png in Resources */,
+				34D128DC1EFDEC5F00E0769F /* ic_road_closed.png in Resources */,
+				34C11F1220DA88BA00143080 /* lewis_lake_cg___west_thumb.png in Resources */,
+				34C11F0720DA88BA00143080 /* canyon_and_cg___fishing_bridge_and_rv_park.png in Resources */,
+				34C11F0820DA88BA00143080 /* mammoth_hot_springs_and_cg___norris_and_cg.png in Resources */,
+				34D129031EFEBF6600E0769F /* strings.xml in Resources */,
+				34EE9FA220DBE4F100E8435E /* ios_yellowstone_mileage_80x80_icon_flattened.png in Resources */,
+				34C11F0620DA88BA00143080 /* pebble_creek_cg___tower_roosevelt.png in Resources */,
+				34EE9FA120DBE4F100E8435E /* ios_yellowstone_mileage_167x167_icon_flattened.png in Resources */,
+				34D128F11EFDEC5F00E0769F /* yellowstone_master_image_1024x1024.png in Resources */,
+				34EE9F9F20DBE4F100E8435E /* ios_yellowstone_mileage_76x76_icon_flattened.png in Resources */,
+				34C11F0520DA88BA00143080 /* bridge_bay_cg___fishing_bridge_and_rv_park.png in Resources */,
+				34C11F1B20DA88BA00143080 /* canyon_and_cg___norris_and_cg.png in Resources */,
+				34C11F1620DA88BA00143080 /* south_entrance___west_thumb.png in Resources */,
+				34C11F2020DA88BA00143080 /* northeast_entrance___pebble_creek_cg.png in Resources */,
+				34ADCE6B1CEA158E008B02F9 /* LaunchScreen.storyboard in Resources */,
+				346DC31620D6A0B300B30E28 /* copyright_transparent_one_line.png in Resources */,
+				34C11F0A20DA88BA00143080 /* canyon_and_cg___tower_fall_cg.png in Resources */,
+				34ADCE681CEA158E008B02F9 /* Assets.xcassets in Resources */,
+				34C11F1120DA88BA00143080 /* mammoth_hot_springs_and_cg___tower_roosevelt.png in Resources */,
+				34B06D991EABEEDF008902A0 /* YellowstoneMasterImage_120X120.png in Resources */,
+				3445B7E720D02F07002C9CE8 /* attributions.txt in Resources */,
+				34B06D961EABEEDF008902A0 /* YellowstoneMasterImage_40X40.png in Resources */,
+				34C11F0D20DA88BA00143080 /* bridge_bay_cg___west_thumb.png in Resources */,
+				34B06D981EABEEDF008902A0 /* YellowstoneMasterImage_80X80.png in Resources */,
+				34ADCE661CEA158E008B02F9 /* Main.storyboard in Resources */,
+				34C11F0B20DA88BA00143080 /* grant_village_cg___lewis_lake_cg.png in Resources */,
+				34C11F2120DA88BA00143080 /* indian_creek_cg___norris_and_cg.png in Resources */,
+				34C11F0920DA88BA00143080 /* east_entrance___fishing_bridge_and_rv_park.png in Resources */,
+				3409BC7C20E14D56004716CA /* road_dates_960x960.png in Resources */,
+				34C11F1720DA88BA00143080 /* madison_and_cg___west_entrance.png in Resources */,
+				34D1289A1EFDAF4100E0769F /* iosRoutes.txt in Resources */,
+				346DC31C20D6A0E000B30E28 /* reset_icon.png in Resources */,
+				34C11F0E20DA88BA00143080 /* canyon_and_cg___tower_roosevelt.png in Resources */,
+				34C11F1020DA88BA00143080 /* madison_and_cg___norris_and_cg.png in Resources */,
+				34EE9F9C20DBE4F100E8435E /* ios_yellowstone_mileage_120x120_icon_flattened.png in Resources */,
+				34B06D9C1EABEEDF008902A0 /* YellowstoneMasterImage_180X180.png in Resources */,
+				34B06D971EABEEDF008902A0 /* YellowstoneMasterImage_76X76.png in Resources */,
+				34C11F1C20DA88BA00143080 /* tower_fall_cg___tower_roosevelt.png in Resources */,
+				34D128D61EFDEC5F00E0769F /* copyright_transparent.png in Resources */,
+				340060E61DC61921006570EB /* YellowstoneNationalParkMap76X76.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34ADCE6F1CEA158E008B02F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34ADCE7A1CEA158E008B02F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		34ADCE541CEA158E008B02F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3435D26F1CEE8EE500AD7C61 /* MileageViewController.m in Sources */,
+				34D128F81EFDECC900E0769F /* Route.m in Sources */,
+				34D128A91EFDBE8900E0769F /* UIImageView+HighlightImage.m in Sources */,
+				34ADCE601CEA158E008B02F9 /* AppDelegate.m in Sources */,
+				34D128A51EFDBD0E00E0769F /* RectF.m in Sources */,
+				3445B7EF20D0D42E002C9CE8 /* RoadClosureViewController.m in Sources */,
+				34D128F51EFDECA600E0769F /* TouchNode.m in Sources */,
+				3445B7E320D028C3002C9CE8 /* OverlayRoads.m in Sources */,
+				3479118E1F0142B3001E29B8 /* UIColor+Hexadecimal.m in Sources */,
+				34D128FB1EFDFC2300E0769F /* TouchNodes.m in Sources */,
+				3445B7EC20D0488B002C9CE8 /* OverlayRoad.m in Sources */,
+				34D129061EFEBF8B00E0769F /* Strings.m in Sources */,
+				34D128AC1EFDBFDC00E0769F /* YellowstoneMileageGraphics.m in Sources */,
+				34ADCE5D1CEA158E008B02F9 /* main.m in Sources */,
+				34D128FE1EFDFC3300E0769F /* Routes.m in Sources */,
+				34A13B0A20D13CAC0071707C /* UIImageView+GeometryConversion.m in Sources */,
+				34D1289E1EFDBAF300E0769F /* ModelMileage.m in Sources */,
+				3488ACE020CD6F2E0071DA12 /* Map.m in Sources */,
+				34D128A11EFDBC5E00E0769F /* HelperDataFiles.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34ADCE6D1CEA158E008B02F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3466CC151EB3C2BA000DA5F4 /* YellowstoneMileageUIAutomation.m in Sources */,
+				34ADCE761CEA158E008B02F9 /* YellowstoneMileageTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34ADCE781CEA158E008B02F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34ADCE811CEA158E008B02F9 /* YellowstoneMileageUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		34ADCE731CEA158E008B02F9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 34ADCE571CEA158E008B02F9 /* YellowstoneMileage */;
+			targetProxy = 34ADCE721CEA158E008B02F9 /* PBXContainerItemProxy */;
+		};
+		34ADCE7E1CEA158E008B02F9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 34ADCE571CEA158E008B02F9 /* YellowstoneMileage */;
+			targetProxy = 34ADCE7D1CEA158E008B02F9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		34ADCE641CEA158E008B02F9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				34ADCE651CEA158E008B02F9 /* Base */,
+			);
+			name = Main.storyboard;
+			path = YellowstoneMileage;
+			sourceTree = "<group>";
+		};
+		34ADCE691CEA158E008B02F9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				34ADCE6A1CEA158E008B02F9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		34ADCE831CEA158E008B02F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		34ADCE841CEA158E008B02F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		34ADCE861CEA158E008B02F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = XZMW4PYK4Y;
+				INFOPLIST_FILE = YellowstoneMileage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.waxcruz.yellowstone;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		34ADCE871CEA158E008B02F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = XZMW4PYK4Y;
+				INFOPLIST_FILE = YellowstoneMileage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.waxcruz.yellowstone;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		34ADCE891CEA158E008B02F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = YellowstoneMileageTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.waxcruz.YellowstoneMileageTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YellowstoneMileage.app/YellowstoneMileage";
+			};
+			name = Debug;
+		};
+		34ADCE8A1CEA158E008B02F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = YellowstoneMileageTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.waxcruz.YellowstoneMileageTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YellowstoneMileage.app/YellowstoneMileage";
+			};
+			name = Release;
+		};
+		34ADCE8C1CEA158E008B02F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = YellowstoneMileageUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.waxcruz.YellowstoneMileageUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = YellowstoneMileage;
+			};
+			name = Debug;
+		};
+		34ADCE8D1CEA158E008B02F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = YellowstoneMileageUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.waxcruz.YellowstoneMileageUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = YellowstoneMileage;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		34ADCE531CEA158E008B02F9 /* Build configuration list for PBXProject "YellowstoneMileage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34ADCE831CEA158E008B02F9 /* Debug */,
+				34ADCE841CEA158E008B02F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34ADCE851CEA158E008B02F9 /* Build configuration list for PBXNativeTarget "YellowstoneMileage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34ADCE861CEA158E008B02F9 /* Debug */,
+				34ADCE871CEA158E008B02F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34ADCE881CEA158E008B02F9 /* Build configuration list for PBXNativeTarget "YellowstoneMileageTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34ADCE891CEA158E008B02F9 /* Debug */,
+				34ADCE8A1CEA158E008B02F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34ADCE8B1CEA158E008B02F9 /* Build configuration list for PBXNativeTarget "YellowstoneMileageUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34ADCE8C1CEA158E008B02F9 /* Debug */,
+				34ADCE8D1CEA158E008B02F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 34ADCE501CEA158E008B02F9 /* Project object */;
+}

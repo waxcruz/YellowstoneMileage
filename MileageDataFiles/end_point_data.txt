@@ -1,0 +1,400 @@
+Bridge Bay CG	Bridge Bay CG												
+Bridge Bay CG	Canyon & CG	Fishing Bridge & RV Park	4	Canyon & CG	16								
+Bridge Bay CG	East Entrance	Fishing Bridge & RV Park	4	East Entrance	27								
+Bridge Bay CG	Fishing Bridge & RV Park	Fishing Bridge & RV Park	4										
+Bridge Bay CG	Grant Village CG	West Thumb	17	Grant Village CG	3								
+Bridge Bay CG	Indian Creek CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Norris & CG	12	Indian Creek CG	12				
+Bridge Bay CG	Lewis Lake CG	West Thumb	17	Lewis Lake CG	10								
+Bridge Bay CG	Madison & CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Norris & CG	12	Madison & CG	14				
+Bridge Bay CG	Mammoth Hot Springs & CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Norris & CG	12	Mammoth Hot Springs & CG	21				
+Bridge Bay CG	Norris & CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Norris & CG	12						
+Bridge Bay CG	North Entrance	Fishing Bridge & RV Park	4	Canyon & CG	16	Norris & CG	12	Mammoth Hot Springs & CG	21	North Entrance	5		
+Bridge Bay CG	Northeast Entrance	Fishing Bridge & RV Park	4	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29				
+Bridge Bay CG	Old Faithful	West Thumb	17	Old Faithful	17								
+Bridge Bay CG	Pebble Creek CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19				
+Bridge Bay CG	Slough Creek CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8				
+Bridge Bay CG	South Entrance	West Thumb	17	South Entrance	22								
+Bridge Bay CG	Tower Fall CG	Fishing Bridge & RV Park	4	Canyon & CG	16	Tower Fall CG	16						
+Bridge Bay CG	Tower-Roosevelt	Fishing Bridge & RV Park	4	Canyon & CG	16	Tower-Roosevelt	19						
+Bridge Bay CG	West Entrance	Fishing Bridge & RV Park	4	Canyon & CG	16	Norris & CG	12	Madison & CG	14	West Entrance	14		
+Bridge Bay CG	West Thumb	West Thumb	17										
+Canyon & CG	Bridge Bay CG	Fishing Bridge & RV Park	16	Bridge Bay CG	4								
+Canyon & CG	Canyon & CG												
+Canyon & CG	East Entrance	Fishing Bridge & RV Park	16	East Entrance	27								
+Canyon & CG	Fishing Bridge & RV Park	Fishing Bridge & RV Park	16										
+Canyon & CG	Grant Village CG	Fishing Bridge & RV Park	16	West Thumb	21	Grant Village CG	3						
+Canyon & CG	Indian Creek CG	Norris & CG	12	Indian Creek CG	12								
+Canyon & CG	Lewis Lake CG	Fishing Bridge & RV Park	16	West Thumb	21	Lewis Lake CG	10						
+Canyon & CG	Madison & CG	Norris & CG	12	Madison & CG	14								
+Canyon & CG	Mammoth Hot Springs & CG	Norris & CG	12	Mammoth Hot Springs & CG	21								
+Canyon & CG	Norris & CG	Norris & CG	12										
+Canyon & CG	North Entrance	Norris & CG	12	Mammoth Hot Springs & CG	21	North Entrance	5						
+Canyon & CG	Northeast Entrance	Tower-Roosevelt	19	Northeast Entrance	29								
+Canyon & CG	Old Faithful	Norris & CG	12	Madison & CG	14	Old Faithful	16						
+Canyon & CG	Pebble Creek CG	Tower-Roosevelt	19	Pebble Creek CG	19								
+Canyon & CG	Slough Creek CG	Tower-Roosevelt	19	Slough Creek CG	8								
+Canyon & CG	South Entrance	Fishing Bridge & RV Park	16	West Thumb	21	South Entrance	22						
+Canyon & CG	Tower Fall CG	Tower Fall CG	16										
+Canyon & CG	Tower-Roosevelt	Tower-Roosevelt	19										
+Canyon & CG	West Entrance	Norris & CG	12	Madison & CG	14	West Entrance	14						
+Canyon & CG	West Thumb	Fishing Bridge & RV Park	16	West Thumb	21								
+East Entrance	Bridge Bay CG	Fishing Bridge & RV Park	27	Bridge Bay CG	4								
+East Entrance	Canyon & CG	Fishing Bridge & RV Park	27	Canyon & CG	16								
+East Entrance	East Entrance												
+East Entrance	Fishing Bridge & RV Park	Fishing Bridge & RV Park	27										
+East Entrance	Grant Village CG	Fishing Bridge & RV Park	27	West Thumb	21	Grant Village CG	3						
+East Entrance	Indian Creek CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Norris & CG	12	Indian Creek CG	12				
+East Entrance	Lewis Lake CG	Fishing Bridge & RV Park	27	West Thumb	21	Lewis Lake CG	10						
+East Entrance	Madison & CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Norris & CG	12	Madison & CG	14				
+East Entrance	Mammoth Hot Springs & CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Norris & CG	12	Mammoth Hot Springs & CG	21				
+East Entrance	Norris & CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Norris & CG	12						
+East Entrance	North Entrance	Fishing Bridge & RV Park	27	Canyon & CG	16	Norris & CG	12	Mammoth Hot Springs & CG	21	North Entrance	5		
+East Entrance	Northeast Entrance	Fishing Bridge & RV Park	27	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29				
+East Entrance	Old Faithful	Fishing Bridge & RV Park	27	West Thumb	21	Old Faithful	17						
+East Entrance	Pebble Creek CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19				
+East Entrance	Slough Creek CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8				
+East Entrance	South Entrance	Fishing Bridge & RV Park	27	West Thumb	21	South Entrance	22						
+East Entrance	Tower Fall CG	Fishing Bridge & RV Park	27	Canyon & CG	16	Tower Fall CG	16						
+East Entrance	Tower-Roosevelt	Fishing Bridge & RV Park	27	Canyon & CG	16	Tower-Roosevelt	19						
+East Entrance	West Entrance	Fishing Bridge & RV Park	27	Canyon & CG	16	Norris & CG	12	Madison & CG	14	West Entrance	14		
+East Entrance	West Thumb	Fishing Bridge & RV Park	27	West Thumb	21								
+Fishing Bridge & RV Park	Bridge Bay CG	Bridge Bay CG	4										
+Fishing Bridge & RV Park	Canyon & CG	Canyon & CG	16										
+Fishing Bridge & RV Park	East Entrance	East Entrance	27										
+Fishing Bridge & RV Park	Fishing Bridge & RV Park												
+Fishing Bridge & RV Park	Grant Village CG	West Thumb	21	Grant Village CG	3								
+Fishing Bridge & RV Park	Indian Creek CG	Canyon & CG	16	Norris & CG	12	Indian Creek CG	12						
+Fishing Bridge & RV Park	Lewis Lake CG	West Thumb	21	Lewis Lake CG	10								
+Fishing Bridge & RV Park	Madison & CG	Canyon & CG	16	Norris & CG	12	Madison & CG	14						
+Fishing Bridge & RV Park	Mammoth Hot Springs & CG	Canyon & CG	16	Norris & CG	12	Mammoth Hot Springs & CG	21						
+Fishing Bridge & RV Park	Norris & CG	Canyon & CG	16	Norris & CG	12								
+Fishing Bridge & RV Park	North Entrance	Canyon & CG	16	Norris & CG	12	Mammoth Hot Springs & CG	21	North Entrance	5				
+Fishing Bridge & RV Park	Northeast Entrance	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29						
+Fishing Bridge & RV Park	Old Faithful	West Thumb	21	Old Faithful	17								
+Fishing Bridge & RV Park	Pebble Creek CG	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19						
+Fishing Bridge & RV Park	Slough Creek CG	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8						
+Fishing Bridge & RV Park	South Entrance	West Thumb	21	South Entrance	22								
+Fishing Bridge & RV Park	Tower Fall CG	Canyon & CG	16	Tower Fall CG	16								
+Fishing Bridge & RV Park	Tower-Roosevelt	Canyon & CG	16	Tower-Roosevelt	19								
+Fishing Bridge & RV Park	West Entrance	Canyon & CG	16	Norris & CG	12	Madison & CG	14	West Entrance	14				
+Fishing Bridge & RV Park	West Thumb	West Thumb	21										
+Grant Village CG	Bridge Bay CG	West Thumb	3	Bridge Bay CG	17								
+Grant Village CG	Canyon & CG	West Thumb	3	Fishing Bridge & RV Park	21	Canyon & CG	16						
+Grant Village CG	East Entrance	West Thumb	3	Fishing Bridge & RV Park	21	East Entrance	27						
+Grant Village CG	Fishing Bridge & RV Park	West Thumb	3	Fishing Bridge & RV Park	21								
+Grant Village CG	Grant Village CG												
+Grant Village CG	Indian Creek CG	West Thumb	3	Old Faithful	17	Madison & CG	16	Norris & CG	14	Indian Creek CG	12		
+Grant Village CG	Lewis Lake CG	Lewis Lake CG	7										
+Grant Village CG	Madison & CG	West Thumb	3	Old Faithful	17	Madison & CG	16						
+Grant Village CG	Mammoth Hot Springs & CG	West Thumb	3	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21		
+Grant Village CG	Norris & CG	West Thumb	3	Old Faithful	17	Madison & CG	16	Norris & CG	14				
+Grant Village CG	North Entrance	West Thumb	3	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5
+Grant Village CG	Northeast Entrance	West Thumb	3	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29		
+Grant Village CG	Old Faithful	West Thumb	3	Old Faithful	17								
+Grant Village CG	Pebble Creek CG	West Thumb	3	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19		
+Grant Village CG	Slough Creek CG	West Thumb	3	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8		
+Grant Village CG	South Entrance	South Entrance	21										
+Grant Village CG	Tower Fall CG	West Thumb	3	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower Fall CG	16				
+Grant Village CG	Tower-Roosevelt	West Thumb	3	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19				
+Grant Village CG	West Entrance	West Thumb	3	Old Faithful	17	Madison & CG	16	West Entrance	14				
+Grant Village CG	West Thumb	West Thumb	3										
+Indian Creek CG	Bridge Bay CG	Norris & CG	12	Canyon & CG	12	Fishing Bridge & RV Park	16	Bridge Bay CG	4				
+Indian Creek CG	Canyon & CG	Norris & CG	12	Canyon & CG	12								
+Indian Creek CG	East Entrance	Norris & CG	12	Canyon & CG	12	Fishing Bridge & RV Park	16	East Entrance	27				
+Indian Creek CG	Fishing Bridge & RV Park	Norris & CG	12	Canyon & CG	12	Fishing Bridge & RV Park	16						
+Indian Creek CG	Grant Village CG	Norris & CG	12	Madison & CG	14	Old Faithful	16	West Thumb	17	Grant Village CG	3		
+Indian Creek CG	Indian Creek CG												
+Indian Creek CG	Lewis Lake CG	Norris & CG	12	Madison & CG	14	Old Faithful	16	West Thumb	17	Lewis Lake CG	10		
+Indian Creek CG	Madison & CG	Norris & CG	12	Madison & CG	14								
+Indian Creek CG	Mammoth Hot Springs & CG	Mammoth Hot Springs & CG	9										
+Indian Creek CG	Norris & CG	Norris & CG	12										
+Indian Creek CG	North Entrance	Mammoth Hot Springs & CG	9	North Entrance	5								
+Indian Creek CG	Northeast Entrance	Mammoth Hot Springs & CG	9	Tower-Roosevelt	18	Northeast Entrance	29						
+Indian Creek CG	Old Faithful	Norris & CG	12	Madison & CG	14	Old Faithful	16						
+Indian Creek CG	Pebble Creek CG	Mammoth Hot Springs & CG	9	Tower-Roosevelt	18	Pebble Creek CG	19						
+Indian Creek CG	Slough Creek CG	Mammoth Hot Springs & CG	9	Tower-Roosevelt	18	Slough Creek CG	8						
+Indian Creek CG	South Entrance	Norris & CG	12	Madison & CG	14	Old Faithful	16	West Thumb	17	South Entrance	22		
+Indian Creek CG	Tower Fall CG	Mammoth Hot Springs & CG	9	Tower-Roosevelt	18	Tower Fall CG	3						
+Indian Creek CG	Tower-Roosevelt	Mammoth Hot Springs & CG	9	Tower-Roosevelt	18								
+Indian Creek CG	West Entrance	Norris & CG	12	Madison & CG	14	West Entrance	14						
+Indian Creek CG	West Thumb	Norris & CG	12	Madison & CG	14	Old Faithful	16	West Thumb	17				
+Lewis Lake CG	Bridge Bay CG	West Thumb	10	Bridge Bay CG	17								
+Lewis Lake CG	Canyon & CG	West Thumb	10	Fishing Bridge & RV Park	21	Canyon & CG	16						
+Lewis Lake CG	East Entrance	West Thumb	10	Fishing Bridge & RV Park	21	East Entrance	27						
+Lewis Lake CG	Fishing Bridge & RV Park	West Thumb	10	Fishing Bridge & RV Park	21								
+Lewis Lake CG	Grant Village CG	Grant Village CG	7										
+Lewis Lake CG	Indian Creek CG	West Thumb	10	Old Faithful	17	Madison & CG	16	Norris & CG	14	Indian Creek CG	12		
+Lewis Lake CG	Lewis Lake CG												
+Lewis Lake CG	Madison & CG	West Thumb	10	Old Faithful	17	Madison & CG	16						
+Lewis Lake CG	Mammoth Hot Springs & CG	West Thumb	10	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21		
+Lewis Lake CG	Norris & CG	West Thumb	10	Old Faithful	17	Madison & CG	16	Norris & CG	14				
+Lewis Lake CG	North Entrance	West Thumb	10	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5
+Lewis Lake CG	Northeast Entrance	West Thumb	10	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29		
+Lewis Lake CG	Old Faithful	West Thumb	10	Old Faithful	17								
+Lewis Lake CG	Pebble Creek CG	West Thumb	10	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19		
+Lewis Lake CG	Slough Creek CG	West Thumb	10	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8		
+Lewis Lake CG	South Entrance	South Entrance	12										
+Lewis Lake CG	Tower Fall CG	West Thumb	10	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower Fall CG	16				
+Lewis Lake CG	Tower-Roosevelt	West Thumb	10	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19				
+Lewis Lake CG	West Entrance	West Thumb	10	Old Faithful	17	Madison & CG	16	West Entrance	14				
+Lewis Lake CG	West Thumb	West Thumb	10										
+Madison & CG	Bridge Bay CG	Norris & CG	14	Canyon & CG	12	Fishing Bridge & RV Park	16	Bridge Bay CG	4				
+Madison & CG	Canyon & CG	Norris & CG	14	Canyon & CG	12								
+Madison & CG	East Entrance	Norris & CG	14	Canyon & CG	12	Fishing Bridge & RV Park	16	East Entrance	27				
+Madison & CG	Fishing Bridge & RV Park	Norris & CG	14	Canyon & CG	12	Fishing Bridge & RV Park	16						
+Madison & CG	Grant Village CG	Old Faithful	16	West Thumb	17	Grant Village CG	3						
+Madison & CG	Indian Creek CG	Norris & CG	14	Indian Creek CG	12								
+Madison & CG	Lewis Lake CG	Old Faithful	16	West Thumb	17	Lewis Lake CG	10						
+Madison & CG	Madison & CG												
+Madison & CG	Mammoth Hot Springs & CG	Norris & CG	14	Mammoth Hot Springs & CG	21								
+Madison & CG	Norris & CG	Norris & CG	14										
+Madison & CG	North Entrance	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5						
+Madison & CG	Northeast Entrance	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Northeast Entrance	29				
+Madison & CG	Old Faithful	Old Faithful	16										
+Madison & CG	Pebble Creek CG	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Pebble Creek CG	19				
+Madison & CG	Slough Creek CG	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Slough Creek CG	8				
+Madison & CG	South Entrance	Old Faithful	16	West Thumb	17	South Entrance	22						
+Madison & CG	Tower Fall CG	Norris & CG	14	Canyon & CG	12	Tower Fall CG	16						
+Madison & CG	Tower-Roosevelt	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19						
+Madison & CG	West Entrance	West Entrance	14										
+Madison & CG	West Thumb	Old Faithful	16	West Thumb	17								
+Mammoth Hot Springs & CG	Bridge Bay CG	Norris & CG	21	Canyon & CG	12	Fishing Bridge & RV Park	16	Bridge Bay CG	4				
+Mammoth Hot Springs & CG	Canyon & CG	Norris & CG	21	Canyon & CG	12								
+Mammoth Hot Springs & CG	East Entrance	Norris & CG	21	Canyon & CG	12	Fishing Bridge & RV Park	16	East Entrance	27				
+Mammoth Hot Springs & CG	Fishing Bridge & RV Park	Norris & CG	21	Canyon & CG	12	Fishing Bridge & RV Park	16						
+Mammoth Hot Springs & CG	Grant Village CG	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17	Grant Village CG	3		
+Mammoth Hot Springs & CG	Indian Creek CG	Indian Creek CG	9										
+Mammoth Hot Springs & CG	Lewis Lake CG	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17	Lewis Lake CG	10		
+Mammoth Hot Springs & CG	Madison & CG	Norris & CG	21	Madison & CG	14								
+Mammoth Hot Springs & CG	Mammoth Hot Springs & CG												
+Mammoth Hot Springs & CG	Norris & CG	Norris & CG	21										
+Mammoth Hot Springs & CG	North Entrance	North Entrance	5										
+Mammoth Hot Springs & CG	Northeast Entrance	Tower-Roosevelt	18	Northeast Entrance	29								
+Mammoth Hot Springs & CG	Old Faithful	Norris & CG	21	Madison & CG	14	Old Faithful	16						
+Mammoth Hot Springs & CG	Pebble Creek CG	Tower-Roosevelt	18	Pebble Creek CG	19								
+Mammoth Hot Springs & CG	Slough Creek CG	Tower-Roosevelt	18	Slough Creek CG	8								
+Mammoth Hot Springs & CG	South Entrance	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17	South Entrance	22		
+Mammoth Hot Springs & CG	Tower Fall CG	Tower-Roosevelt	18	Tower Fall CG	3								
+Mammoth Hot Springs & CG	Tower-Roosevelt	Tower-Roosevelt	18										
+Mammoth Hot Springs & CG	West Entrance	Norris & CG	21	Madison & CG	14	West Entrance	14						
+Mammoth Hot Springs & CG	West Thumb	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17				
+Norris & CG	Bridge Bay CG	Canyon & CG	12	Fishing Bridge & RV Park	16	Bridge Bay CG	4						
+Norris & CG	Canyon & CG	Canyon & CG	12										
+Norris & CG	East Entrance	Canyon & CG	12	Fishing Bridge & RV Park	16	East Entrance	27						
+Norris & CG	Fishing Bridge & RV Park	Canyon & CG	12	Fishing Bridge & RV Park	16								
+Norris & CG	Grant Village CG	Madison & CG	14	Old Faithful	16	West Thumb	17	Grant Village CG	3				
+Norris & CG	Indian Creek CG	Indian Creek CG	12										
+Norris & CG	Lewis Lake CG	Madison & CG	14	Old Faithful	16	West Thumb	17	Lewis Lake CG	10				
+Norris & CG	Madison & CG	Madison & CG	14										
+Norris & CG	Mammoth Hot Springs & CG	Mammoth Hot Springs & CG	21										
+Norris & CG	Norris & CG												
+Norris & CG	North Entrance	Mammoth Hot Springs & CG	21	North Entrance	5								
+Norris & CG	Northeast Entrance	Canyon & CG	12	Tower-Roosevelt	19	Northeast Entrance	29						
+Norris & CG	Old Faithful	Madison & CG	14	Old Faithful	16								
+Norris & CG	Pebble Creek CG	Canyon & CG	12	Tower-Roosevelt	19	Pebble Creek CG	19						
+Norris & CG	Slough Creek CG	Canyon & CG	12	Tower-Roosevelt	19	Slough Creek CG	8						
+Norris & CG	South Entrance	Madison & CG	14	Old Faithful	16	West Thumb	17	South Entrance	22				
+Norris & CG	Tower Fall CG	Canyon & CG	12	Tower Fall CG	16								
+Norris & CG	Tower-Roosevelt	Canyon & CG	12	Tower-Roosevelt	19								
+Norris & CG	West Entrance	Madison & CG	14	West Entrance	14								
+Norris & CG	West Thumb	Madison & CG	14	Old Faithful	16	West Thumb	17						
+North Entrance	Bridge Bay CG	Mammoth Hot Springs & CG	5	Norris & CG	21	Canyon & CG	12	Fishing Bridge & RV Park	16	Bridge Bay CG	4		
+North Entrance	Canyon & CG	Mammoth Hot Springs & CG	5	Norris & CG	21	Canyon & CG	12						
+North Entrance	East Entrance	Mammoth Hot Springs & CG	5	Norris & CG	21	Canyon & CG	12	Fishing Bridge & RV Park	16	East Entrance	27		
+North Entrance	Fishing Bridge & RV Park	Mammoth Hot Springs & CG	5	Norris & CG	21	Canyon & CG	12	Fishing Bridge & RV Park	16				
+North Entrance	Grant Village CG	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17	Grant Village CG	3
+North Entrance	Indian Creek CG	Mammoth Hot Springs & CG	5	Indian Creek CG	9								
+North Entrance	Lewis Lake CG	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17	Lewis Lake CG	10
+North Entrance	Madison & CG	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14						
+North Entrance	Mammoth Hot Springs & CG	Mammoth Hot Springs & CG	5										
+North Entrance	Norris & CG	Mammoth Hot Springs & CG	5	Norris & CG	21								
+North Entrance	North Entrance												
+North Entrance	Northeast Entrance	Mammoth Hot Springs & CG	5	Tower-Roosevelt	18	Northeast Entrance	29						
+North Entrance	Old Faithful	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14	Old Faithful	16				
+North Entrance	Pebble Creek CG	Mammoth Hot Springs & CG	5	Tower-Roosevelt	18	Pebble Creek CG	19						
+North Entrance	Slough Creek CG	Mammoth Hot Springs & CG	5	Tower-Roosevelt	18	Slough Creek CG	8						
+North Entrance	South Entrance	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17	South Entrance	22
+North Entrance	Tower Fall CG	Mammoth Hot Springs & CG	5	Tower-Roosevelt	18	Tower Fall CG	3						
+North Entrance	Tower-Roosevelt	Mammoth Hot Springs & CG	5	Tower-Roosevelt	18								
+North Entrance	West Entrance	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14	West Entrance	14				
+North Entrance	West Thumb	Mammoth Hot Springs & CG	5	Norris & CG	21	Madison & CG	14	Old Faithful	16	West Thumb	17		
+Northeast Entrance	Bridge Bay CG	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16	Bridge Bay CG	4				
+Northeast Entrance	Canyon & CG	Tower-Roosevelt	29	Canyon & CG	19								
+Northeast Entrance	East Entrance	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16	East Entrance	27				
+Northeast Entrance	Fishing Bridge & RV Park	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16						
+Northeast Entrance	Grant Village CG	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Grant Village CG	3		
+Northeast Entrance	Indian Creek CG	Tower-Roosevelt	29	Mammoth Hot Springs & CG	18	Indian Creek CG	9						
+Northeast Entrance	Lewis Lake CG	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Lewis Lake CG	10		
+Northeast Entrance	Madison & CG	Tower-Roosevelt	29	Canyon & CG	19	Norris & CG	12	Madison & CG	14				
+Northeast Entrance	Mammoth Hot Springs & CG	Tower-Roosevelt	29	Mammoth Hot Springs & CG	18								
+Northeast Entrance	Norris & CG	Tower-Roosevelt	29	Canyon & CG	19	Norris & CG	12						
+Northeast Entrance	North Entrance	Tower-Roosevelt	29	Mammoth Hot Springs & CG	18	North Entrance	5						
+Northeast Entrance	Northeast Entrance												
+Northeast Entrance	Old Faithful	Tower-Roosevelt	29	Canyon & CG	19	Norris & CG	12	Madison & CG	14	Old Faithful	16		
+Northeast Entrance	Pebble Creek CG	Pebble Creek CG	10										
+Northeast Entrance	Slough Creek CG	Slough Creek CG	25										
+Northeast Entrance	South Entrance	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	South Entrance	22		
+Northeast Entrance	Tower Fall CG	Tower-Roosevelt	29	Tower Fall CG	3								
+Northeast Entrance	Tower-Roosevelt	Tower-Roosevelt	29										
+Northeast Entrance	West Entrance	Tower-Roosevelt	29	Canyon & CG	19	Norris & CG	12	Madison & CG	14	West Entrance	14		
+Northeast Entrance	West Thumb	Tower-Roosevelt	29	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21				
+Old Faithful	Bridge Bay CG	West Thumb	17	Bridge Bay CG	17								
+Old Faithful	Canyon & CG	Madison & CG	16	Norris & CG	14	Canyon & CG	12						
+Old Faithful	East Entrance	West Thumb	17	Fishing Bridge & RV Park	21	East Entrance	27						
+Old Faithful	Fishing Bridge & RV Park	West Thumb	17	Fishing Bridge & RV Park	21								
+Old Faithful	Grant Village CG	West Thumb	17	Grant Village CG	3								
+Old Faithful	Indian Creek CG	Madison & CG	16	Norris & CG	14	Indian Creek CG	12						
+Old Faithful	Lewis Lake CG	West Thumb	17	Lewis Lake CG	10								
+Old Faithful	Madison & CG	Madison & CG	16										
+Old Faithful	Mammoth Hot Springs & CG	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21						
+Old Faithful	Norris & CG	Madison & CG	16	Norris & CG	14								
+Old Faithful	North Entrance	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5				
+Old Faithful	Northeast Entrance	Madison & CG	16	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Northeast Entrance	29		
+Old Faithful	Old Faithful												
+Old Faithful	Pebble Creek CG	Madison & CG	16	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Pebble Creek CG	19		
+Old Faithful	Slough Creek CG	Madison & CG	16	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Slough Creek CG	8		
+Old Faithful	South Entrance	West Thumb	17	South Entrance	22								
+Old Faithful	Tower Fall CG	Madison & CG	16	Norris & CG	14	Canyon & CG	12	Tower Fall CG	16				
+Old Faithful	Tower-Roosevelt	Madison & CG	16	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19				
+Old Faithful	West Entrance	Madison & CG	16	West Entrance	14								
+Old Faithful	West Thumb	West Thumb	17										
+Pebble Creek CG	Bridge Bay CG	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16	Bridge Bay CG	4				
+Pebble Creek CG	Canyon & CG	Tower-Roosevelt	19	Canyon & CG	19								
+Pebble Creek CG	East Entrance	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16	East Entrance	27				
+Pebble Creek CG	Fishing Bridge & RV Park	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16						
+Pebble Creek CG	Grant Village CG	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Grant Village CG	3		
+Pebble Creek CG	Indian Creek CG	Tower-Roosevelt	19	Mammoth Hot Springs & CG	18	Indian Creek CG	9						
+Pebble Creek CG	Lewis Lake CG	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Lewis Lake CG	10		
+Pebble Creek CG	Madison & CG	Tower-Roosevelt	19	Canyon & CG	19	Norris & CG	12	Madison & CG	14				
+Pebble Creek CG	Mammoth Hot Springs & CG	Tower-Roosevelt	19	Mammoth Hot Springs & CG	18								
+Pebble Creek CG	Norris & CG	Tower-Roosevelt	19	Canyon & CG	19	Norris & CG	12						
+Pebble Creek CG	North Entrance	Tower-Roosevelt	19	Mammoth Hot Springs & CG	18	North Entrance	5						
+Pebble Creek CG	Northeast Entrance	Northeast Entrance	10										
+Pebble Creek CG	Old Faithful	Tower-Roosevelt	19	Canyon & CG	19	Norris & CG	12	Madison & CG	14	Old Faithful	16		
+Pebble Creek CG	Pebble Creek CG												
+Pebble Creek CG	Slough Creek CG	Slough Creek CG	15										
+Pebble Creek CG	South Entrance	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	South Entrance	22		
+Pebble Creek CG	Tower Fall CG	Tower-Roosevelt	19	Tower Fall CG	3								
+Pebble Creek CG	Tower-Roosevelt	Tower-Roosevelt	19										
+Pebble Creek CG	West Entrance	Tower-Roosevelt	19	Canyon & CG	19	Norris & CG	12	Madison & CG	14	West Entrance	14		
+Pebble Creek CG	West Thumb	Tower-Roosevelt	19	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21				
+Slough Creek CG	Bridge Bay CG	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16	Bridge Bay CG	4				
+Slough Creek CG	Canyon & CG	Tower-Roosevelt	8	Canyon & CG	19								
+Slough Creek CG	East Entrance	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16	East Entrance	27				
+Slough Creek CG	Fishing Bridge & RV Park	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16						
+Slough Creek CG	Grant Village CG	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Grant Village CG	3		
+Slough Creek CG	Indian Creek CG	Tower-Roosevelt	8	Mammoth Hot Springs & CG	18	Indian Creek CG	9						
+Slough Creek CG	Lewis Lake CG	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Lewis Lake CG	10		
+Slough Creek CG	Madison & CG	Tower-Roosevelt	8	Canyon & CG	19	Norris & CG	12	Madison & CG	14				
+Slough Creek CG	Mammoth Hot Springs & CG	Tower-Roosevelt	8	Mammoth Hot Springs & CG	18								
+Slough Creek CG	Norris & CG	Tower-Roosevelt	8	Canyon & CG	19	Norris & CG	12						
+Slough Creek CG	North Entrance	Tower-Roosevelt	8	Mammoth Hot Springs & CG	18	North Entrance	5						
+Slough Creek CG	Northeast Entrance	Northeast Entrance	25										
+Slough Creek CG	Old Faithful	Tower-Roosevelt	8	Canyon & CG	19	Norris & CG	12	Madison & CG	14	Old Faithful	16		
+Slough Creek CG	Pebble Creek CG	Pebble Creek CG	15										
+Slough Creek CG	Slough Creek CG												
+Slough Creek CG	South Entrance	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	South Entrance	22		
+Slough Creek CG	Tower Fall CG	Tower-Roosevelt	8	Tower Fall CG	3								
+Slough Creek CG	Tower-Roosevelt	Tower-Roosevelt	8										
+Slough Creek CG	West Entrance	Tower-Roosevelt	8	Canyon & CG	19	Norris & CG	12	Madison & CG	14	West Entrance	14		
+Slough Creek CG	West Thumb	Tower-Roosevelt	8	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21				
+South Entrance	Bridge Bay CG	West Thumb	22	Bridge Bay CG	17								
+South Entrance	Canyon & CG	West Thumb	22	Fishing Bridge & RV Park	21	Canyon & CG	16						
+South Entrance	East Entrance	West Thumb	22	Fishing Bridge & RV Park	21	East Entrance	27						
+South Entrance	Fishing Bridge & RV Park	West Thumb	22	Fishing Bridge & RV Park	21								
+South Entrance	Grant Village CG	Grant Village CG	21										
+South Entrance	Indian Creek CG	West Thumb	22	Old Faithful	17	Madison & CG	16	Norris & CG	14	Indian Creek CG	12		
+South Entrance	Lewis Lake CG	Lewis Lake CG	12										
+South Entrance	Madison & CG	West Thumb	22	Old Faithful	17	Madison & CG	16						
+South Entrance	Mammoth Hot Springs & CG	West Thumb	22	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21		
+South Entrance	Norris & CG	West Thumb	22	Old Faithful	17	Madison & CG	16	Norris & CG	14				
+South Entrance	North Entrance	West Thumb	22	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5
+South Entrance	Northeast Entrance	West Thumb	22	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29		
+South Entrance	Old Faithful	West Thumb	22	Old Faithful	17								
+South Entrance	Pebble Creek CG	West Thumb	22	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19		
+South Entrance	Slough Creek CG	West Thumb	22	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8		
+South Entrance	South Entrance												
+South Entrance	Tower Fall CG	West Thumb	22	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower Fall CG	16				
+South Entrance	Tower-Roosevelt	West Thumb	22	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19				
+South Entrance	West Entrance	West Thumb	22	Old Faithful	17	Madison & CG	16	West Entrance	14				
+South Entrance	West Thumb	West Thumb	22										
+Tower Fall CG	Bridge Bay CG	Canyon & CG	16	Fishing Bridge & RV Park	16	Bridge Bay CG	4						
+Tower Fall CG	Canyon & CG	Canyon & CG	16										
+Tower Fall CG	East Entrance	Canyon & CG	16	Fishing Bridge & RV Park	16	East Entrance	27						
+Tower Fall CG	Fishing Bridge & RV Park	Canyon & CG	16	Fishing Bridge & RV Park	16								
+Tower Fall CG	Grant Village CG	Canyon & CG	16	Fishing Bridge & RV Park	16	West Thumb	21	Grant Village CG	3				
+Tower Fall CG	Indian Creek CG	Tower-Roosevelt	3	Mammoth Hot Springs & CG	18	Indian Creek CG	9						
+Tower Fall CG	Lewis Lake CG	Canyon & CG	16	Fishing Bridge & RV Park	16	West Thumb	21	Lewis Lake CG	10				
+Tower Fall CG	Madison & CG	Canyon & CG	16	Norris & CG	12	Madison & CG	14						
+Tower Fall CG	Mammoth Hot Springs & CG	Tower-Roosevelt	3	Mammoth Hot Springs & CG	18								
+Tower Fall CG	Norris & CG	Canyon & CG	16	Norris & CG	12								
+Tower Fall CG	North Entrance	Tower-Roosevelt	3	Mammoth Hot Springs & CG	18	North Entrance	5						
+Tower Fall CG	Northeast Entrance	Tower-Roosevelt	3	Northeast Entrance	29								
+Tower Fall CG	Old Faithful	Canyon & CG	16	Norris & CG	12	Madison & CG	14	Old Faithful	16				
+Tower Fall CG	Pebble Creek CG	Tower-Roosevelt	3	Pebble Creek CG	19								
+Tower Fall CG	Slough Creek CG	Tower-Roosevelt	3	Slough Creek CG	8								
+Tower Fall CG	South Entrance	Canyon & CG	16	Fishing Bridge & RV Park	16	West Thumb	21	South Entrance	22				
+Tower Fall CG	Tower Fall CG												
+Tower Fall CG	Tower-Roosevelt	Tower-Roosevelt	3										
+Tower Fall CG	West Entrance	Canyon & CG	16	Norris & CG	12	Madison & CG	14	West Entrance	14				
+Tower Fall CG	West Thumb	Canyon & CG	16	Fishing Bridge & RV Park	16	West Thumb	21						
+Tower-Roosevelt	Bridge Bay CG	Canyon & CG	19	Fishing Bridge & RV Park	16	Bridge Bay CG	4						
+Tower-Roosevelt	Canyon & CG	Canyon & CG	19										
+Tower-Roosevelt	East Entrance	Canyon & CG	19	Fishing Bridge & RV Park	16	East Entrance	27						
+Tower-Roosevelt	Fishing Bridge & RV Park	Canyon & CG	19	Fishing Bridge & RV Park	16								
+Tower-Roosevelt	Grant Village CG	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Grant Village CG	3				
+Tower-Roosevelt	Indian Creek CG	Mammoth Hot Springs & CG	18	Indian Creek CG	9								
+Tower-Roosevelt	Lewis Lake CG	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	Lewis Lake CG	10				
+Tower-Roosevelt	Madison & CG	Canyon & CG	19	Norris & CG	12	Madison & CG	14						
+Tower-Roosevelt	Mammoth Hot Springs & CG	Mammoth Hot Springs & CG	18										
+Tower-Roosevelt	Norris & CG	Canyon & CG	19	Norris & CG	12								
+Tower-Roosevelt	North Entrance	Mammoth Hot Springs & CG	18	North Entrance	5								
+Tower-Roosevelt	Northeast Entrance	Northeast Entrance	29										
+Tower-Roosevelt	Old Faithful	Canyon & CG	19	Norris & CG	12	Madison & CG	14	Old Faithful	16				
+Tower-Roosevelt	Pebble Creek CG	Pebble Creek CG	19										
+Tower-Roosevelt	Slough Creek CG	Slough Creek CG	8										
+Tower-Roosevelt	South Entrance	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21	South Entrance	22				
+Tower-Roosevelt	Tower Fall CG	Tower Fall CG	3										
+Tower-Roosevelt	Tower-Roosevelt												
+Tower-Roosevelt	West Entrance	Canyon & CG	19	Norris & CG	12	Madison & CG	14	West Entrance	14				
+Tower-Roosevelt	West Thumb	Canyon & CG	19	Fishing Bridge & RV Park	16	West Thumb	21						
+West Entrance	Bridge Bay CG	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Fishing Bridge & RV Park	16	Bridge Bay CG	4		
+West Entrance	Canyon & CG	Madison & CG	14	Norris & CG	14	Canyon & CG	12						
+West Entrance	East Entrance	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Fishing Bridge & RV Park	16	East Entrance	27		
+West Entrance	Fishing Bridge & RV Park	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Fishing Bridge & RV Park	16				
+West Entrance	Grant Village CG	Madison & CG	14	Old Faithful	16	West Thumb	17	Grant Village CG	3				
+West Entrance	Indian Creek CG	Madison & CG	14	Norris & CG	14	Indian Creek CG	12						
+West Entrance	Lewis Lake CG	Madison & CG	14	Old Faithful	16	West Thumb	17	Lewis Lake CG	10				
+West Entrance	Madison & CG	Madison & CG	14										
+West Entrance	Mammoth Hot Springs & CG	Madison & CG	14	Norris & CG	14	Mammoth Hot Springs & CG	21						
+West Entrance	Norris & CG	Madison & CG	14	Norris & CG	14								
+West Entrance	North Entrance	Madison & CG	14	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5				
+West Entrance	Northeast Entrance	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Northeast Entrance	29		
+West Entrance	Old Faithful	Madison & CG	14	Old Faithful	16								
+West Entrance	Pebble Creek CG	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Pebble Creek CG	19		
+West Entrance	Slough Creek CG	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19	Slough Creek CG	8		
+West Entrance	South Entrance	Madison & CG	14	Old Faithful	16	West Thumb	17	South Entrance	22				
+West Entrance	Tower Fall CG	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Tower Fall CG	16				
+West Entrance	Tower-Roosevelt	Madison & CG	14	Norris & CG	14	Canyon & CG	12	Tower-Roosevelt	19				
+West Entrance	West Entrance												
+West Entrance	West Thumb	Madison & CG	14	Old Faithful	16	West Thumb	17						
+West Thumb	Bridge Bay CG	Bridge Bay CG	17										
+West Thumb	Canyon & CG	Fishing Bridge & RV Park	21	Canyon & CG	16								
+West Thumb	East Entrance	Fishing Bridge & RV Park	21	East Entrance	27								
+West Thumb	Fishing Bridge & RV Park	Fishing Bridge & RV Park	21										
+West Thumb	Grant Village CG	Grant Village CG	3										
+West Thumb	Indian Creek CG	Old Faithful	17	Madison & CG	16	Norris & CG	14	Indian Creek CG	12				
+West Thumb	Lewis Lake CG	Lewis Lake CG	10										
+West Thumb	Madison & CG	Old Faithful	17	Madison & CG	16								
+West Thumb	Mammoth Hot Springs & CG	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21				
+West Thumb	Norris & CG	Old Faithful	17	Madison & CG	16	Norris & CG	14						
+West Thumb	North Entrance	Old Faithful	17	Madison & CG	16	Norris & CG	14	Mammoth Hot Springs & CG	21	North Entrance	5		
+West Thumb	Northeast Entrance	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Northeast Entrance	29				
+West Thumb	Old Faithful	Old Faithful	17										
+West Thumb	Pebble Creek CG	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Pebble Creek CG	19				
+West Thumb	Slough Creek CG	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19	Slough Creek CG	8				
+West Thumb	South Entrance	South Entrance	22										
+West Thumb	Tower Fall CG	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower Fall CG	16						
+West Thumb	Tower-Roosevelt	Fishing Bridge & RV Park	21	Canyon & CG	16	Tower-Roosevelt	19						
+West Thumb	West Entrance	Old Faithful	17	Madison & CG	16	West Entrance	14						
+West Thumb	West Thumb												
